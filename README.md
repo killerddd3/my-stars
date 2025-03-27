@@ -173,7 +173,7 @@
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models) - awesome AI models with NCNN, and how they were converted ✨✨✨
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of 100+ Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: contains 100+ Awesome AI models, support MNN, NCNN, TNN, ONNXRuntime and TensorRT. 🎉🎉
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -336,6 +336,7 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [52funny/pikpakcli](https://github.com/52funny/pikpakcli) - pikpak command line tool. Including download, upload, share and so on.
@@ -662,6 +663,7 @@
 
 ## JavaScript 
 
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -871,6 +873,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 - [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
@@ -895,7 +898,7 @@
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [lumyuan/yohub-desktop](https://github.com/lumyuan/yohub-desktop) - 优画工具箱桌面版，一个现代化UI设计的Android设备玩机工具箱（Windows端）
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music
 - [xjunz/AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -941,6 +944,7 @@
 
 ## MDX 
 
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 
 ## Makefile 
@@ -1000,7 +1004,7 @@
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者出海工具收集站（Awesome Independent developer sea tool collection station）
+- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者工具站（Awesome Independent developer  tools）
 - [TommyZihao/zihao_course](https://github.com/TommyZihao/zihao_course) - 同济子豪兄的公开课
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [kuchin/awesome-tpm](https://github.com/kuchin/awesome-tpm) - A curated and opinionated list of resources for Technical Program Managers
@@ -1164,6 +1168,10 @@
 
 ## Python 
 
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [opendatalab/labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
@@ -1207,7 +1215,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等消息平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、Ch
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、ChatGLM、S
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
@@ -1432,7 +1440,7 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1480,6 +1488,10 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+- [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
@@ -1548,8 +1560,9 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [qmhc/grid-layout-plus](https://github.com/qmhc/grid-layout-plus) - A draggable and resizable grid layout, for Vue 3.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- [Super-Badmen-Viper/NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1697,6 +1710,9 @@
 
 ## Vue 
 
+- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [opentiny/tiny-engine](https://github.com/opentiny/tiny-engine) - TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台
@@ -1717,7 +1733,6 @@
 - [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的Vue低代码可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 - [Cteros/eno-music](https://github.com/Cteros/eno-music) - 
 - [umodoc/editor](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap.
-- [Super-Badmen-Viper/NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 - [megasanjay/vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A simple Vue 3 component for using Lottie animations in Vue 3
