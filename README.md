@@ -74,6 +74,7 @@
 
 ## C 
 
+- [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual 
@@ -109,7 +110,7 @@
 - [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/
 - [emqx/neuron](https://github.com/emqx/neuron) - Open source industrial IoT connectivity server
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
@@ -234,7 +235,6 @@
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
 - [XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme) - 专治强迫症
-- [Fausto-Korpsvart/Kanagawa-GKT-Theme](https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme) - A GTK theme with the Kanagawa colour palette.
 - [EliverLara/Ant](https://github.com/EliverLara/Ant) - :ant:  A flat and light theme with a modern look
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
@@ -489,7 +489,6 @@
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
-- [jiayaoO3O/18-comic-finder](https://github.com/jiayaoO3O/18-comic-finder) - 禁漫天堂Github Actions下载器🧘
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
 - [Sayi/poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 - [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA API、Java Method  debug tools
@@ -675,6 +674,7 @@
 
 ## JavaScript 
 
+- [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -703,6 +703,7 @@
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -895,10 +896,13 @@
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## Kotlin 
 
+- [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+- [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -1187,6 +1191,10 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - Desktop app for automatically translating comics - BDs, Manga, Manhwa, Fumetti and more in a variety of formats (Image, Pdf, Epub, cbr, cbz, etc) and in multiple languages.
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - 
@@ -1242,7 +1250,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、C
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI、PPIO、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、C
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
@@ -1281,7 +1289,7 @@
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - TV直播源 (每日自动收集・持续更新)
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -1444,6 +1452,7 @@
 
 ## SCSS 
 
+- [Fausto-Korpsvart/Kanagawa-GKT-Theme](https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme) - A GTK theme with the Kanagawa colour palette.
 - [Fausto-Korpsvart/Tokyonight-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
@@ -1511,6 +1520,7 @@
 
 ## TypeScript 
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1538,7 +1548,6 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
@@ -1689,7 +1698,6 @@
 - [le5le-com/meta2d.js](https://github.com/le5le-com/meta2d.js) - The meta2d.js is real-time data exchange and interactive web 2D engine. Developers are able to build Web SCADA, IoT, Digital twins and so on. Meta2d.js是一个实时数据响应和交互的2d引擎，可用于Web组态，物联网，数字孪生等场景。
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [frangoteam/FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
