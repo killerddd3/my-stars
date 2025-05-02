@@ -477,7 +477,7 @@
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 - [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) - SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
-- [aizuda/flowlong](https://github.com/aizuda/flowlong) - 飞龙工作流 FlowLong 🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
+- [aizuda/flowlong](https://github.com/aizuda/flowlong) - 飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
 - [apache/ambari](https://github.com/apache/ambari) - Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters.
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 自动追番、订阅、下载 蜜柑RSS动漫
