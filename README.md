@@ -366,7 +366,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [atomix/atomix](https://github.com/atomix/atomix) - A Kubernetes toolkit for building distributed applications using cloud native principles
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -1307,7 +1307,7 @@
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
 - [antgroup/animate-x](https://github.com/antgroup/animate-x) - [ICLR 2025] Animate-X: Universal Character Image Animation with Enhanced Motion Representation
-- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - [arXiv 2025] Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with  Video Diffusion Priors"
+- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - [ICCV 2025] Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with  Video Diffusion Priors"
 - [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraser is a diffusion model for video inpainting, which performs great content completeness and temporal consistency while maintaining acceptable efficiency.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) - TTS with kokoro and onnx runtime
@@ -1383,14 +1383,14 @@
 - [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
 - [huanngzh/MV-Adapter](https://github.com/huanngzh/MV-Adapter) - [ICCV 2025] Official impl. of "MV-Adapter: Multi-view Consistent Image Generation Made Easy"
 - [Tencent-Hunyuan/InstantCharacter](https://github.com/Tencent-Hunyuan/InstantCharacter) - 
-- [bytedance/UNO](https://github.com/bytedance/UNO) - 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
+- [bytedance/UNO](https://github.com/bytedance/UNO) - [ICCV 2025] 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
 - [ali-vilab/ACE_plus](https://github.com/ali-vilab/ACE_plus) - 
 - [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR) - Arbitrary-steps Image Super-resolution via Diffusion Inversion (CVPR 2025)
 - [alibaba/Tora](https://github.com/alibaba/Tora) - [CVPR'25]Tora: Trajectory-oriented Diffusion Transformer for Video Generation
 - [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ARXIV'25] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 - [piddnad/DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
-- [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl) - Implementation of "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"
+- [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl) - Implementation of "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"(ICCV2025)
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Training released! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough 
 - [franciszzj/Leffa](https://github.com/franciszzj/Leffa) - [CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
