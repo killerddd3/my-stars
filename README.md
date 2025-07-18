@@ -20,6 +20,7 @@
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HLSL](#hlsl)
 - [HTML](#html)
@@ -33,6 +34,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mermaid](#mermaid)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -90,7 +92,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
-- [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）
+- [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -259,9 +261,9 @@
 - [niuhuan/kobi](https://github.com/niuhuan/kobi) - 拷贝漫画客户端
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
-- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 禁漫天堂三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [khoadng/Boorusama](https://github.com/khoadng/Boorusama) - A mobile client for booru sites built with Flutter
@@ -340,6 +342,7 @@
 
 ## Go 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -438,6 +441,10 @@
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 
+## Groovy 
+
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+
 ## HCL 
 
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
@@ -453,7 +460,7 @@
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
-- [grbnb/xp_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/suiyuehq/xp_module.git
+- [grbnb/xp_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - TV直播源 (每日自动收集・持续更新)
@@ -550,7 +557,6 @@
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -770,7 +776,7 @@
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - three+vue3&lt;tres&gt; : An open-source framework that enables rapid implementation of your 3D visualization projects [微信小程序 tvt.js tres.js three.js vue3 ts]
+- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - three+vue3&lt;tres&gt; : An open-source framework that enables rapid implementation of your 3D visualization projects [tvt.js tres.js three.js vue3 ts]
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop) - A full-featured download manager.
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 
@@ -943,6 +949,8 @@
 
 ## Kotlin 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
 - [fumiama/copymanga](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
 - [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
@@ -1013,6 +1021,7 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [getiot/getiot-kb](https://github.com/getiot/getiot-kb) - 📖 GetIoT.tech「人人都懂物联网」开源知识库
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1036,12 +1045,19 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
+## Mermaid 
+
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
+
 ## Objective-C 
 
 - [abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme) - 
 
 ## Others 
 
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+- [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
 - [celsriseup/awesome-booru](https://github.com/celsriseup/awesome-booru) - A curated list of awesome booru links
 - [ProbiusOfficial/CTFtools-wiki](https://github.com/ProbiusOfficial/CTFtools-wiki) - 【Hello CTF】录常用 / 优秀 的CTF工具项目及其文档,一个对各阶段CTFer都很友好的工具仓库,让所有的工具都发挥作用！
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
@@ -1062,7 +1078,7 @@
 - [ZJDoc/GitGuide](https://github.com/ZJDoc/GitGuide) - 版本管理操作规范、工具以及托管平台使用
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [moeoverflow/awesome-acg](https://github.com/moeoverflow/awesome-acg) - A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
-- [CheeseAni/CheeseAni-SubRepository](https://github.com/CheeseAni/CheeseAni-SubRepository) - CheeseAni 的字幕仓库，包含CheeseAni的所有字幕
+- [CheeseAni/CheeseAni-SubRepository](https://github.com/CheeseAni/CheeseAni-SubRepository) - CheeseAni 的字幕仓库，包含 CheeseAni 的所有字幕
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [Yuri-NagaSaki/wonderful-acg](https://github.com/Yuri-NagaSaki/wonderful-acg) - 一些有趣的acg项目
 - [StellarRach/Counter-Strike-Augmented-Edition](https://github.com/StellarRach/Counter-Strike-Augmented-Edition) - Counter-Strike Augmented Edition public repository
@@ -1256,8 +1272,8 @@
 ## Python 
 
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
-- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. Official repo 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - [TKDE'25] This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. Offi
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [Tencent-Hunyuan/HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) - 
 - [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
@@ -1274,7 +1290,7 @@
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [MYZY-AI/Muyan-TTS](https://github.com/MYZY-AI/Muyan-TTS) - 
 - [ZeyueT/AudioX](https://github.com/ZeyueT/AudioX) - Repository of AudioX
-- [deepbrainai-research/float](https://github.com/deepbrainai-research/float) - [ICCV2025] Official Pytorch Implementation of FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait.
+- [deepbrainai-research/float](https://github.com/deepbrainai-research/float) - [ICCV 2025] Official Pytorch Implementation of FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait.
 - [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 🌊 Images to → 3D Parallax effect video. A free and open source ImmersityAI alternative
 - [saradorfman1/IP_Composer](https://github.com/saradorfman1/IP_Composer) - 
 - [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
@@ -1298,7 +1314,7 @@
 - [pxl-pshr/GlitchNodes](https://github.com/pxl-pshr/GlitchNodes) - ComfyUI GlitchNodes
 - [Westlake-AGI-Lab/StyleStudio](https://github.com/Westlake-AGI-Lab/StyleStudio) - [CVPR 2025] Official implementation of StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements
 - [pq-yang/MatAnyone](https://github.com/pq-yang/MatAnyone) - [CVPR 2025] MatAnyone: Stable Video Matting with Consistent Memory Propagation
-- [antgroup/ditto-talkinghead](https://github.com/antgroup/ditto-talkinghead) - Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis
+- [antgroup/ditto-talkinghead](https://github.com/antgroup/ditto-talkinghead) - [ACM MM 2025] Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis
 - [lihxxx/DisPose](https://github.com/lihxxx/DisPose) - [ICLR2025] DisPose: Disentangling Pose Guidance for Controllable Human Image Animation
 - [ainewsto/Comfyui_Comfly](https://github.com/ainewsto/Comfyui_Comfly) - 
 - [fallenshock/FlowEdit](https://github.com/fallenshock/FlowEdit) - Official implementation of the paper: "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models"
@@ -1400,7 +1416,7 @@
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Training released! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough 
 - [franciszzj/Leffa](https://github.com/franciszzj/Leffa) - [CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
-- [mit-han-lab/nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+- [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 - [xinsir6/ControlNetPlus](https://github.com/xinsir6/ControlNetPlus) - ControlNet++: All-in-one ControlNet for image generations and editing!
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
 - [aigc3d/LHM](https://github.com/aigc3d/LHM) - [ICCV2025] LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds
@@ -1551,7 +1567,6 @@
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
 - [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1824,7 +1839,6 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
 
 ## Smarty 
 
@@ -1853,6 +1867,7 @@
 
 ## TypeScript 
 
+- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
@@ -1860,7 +1875,7 @@
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open All-in-One Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [rewbs/sd-parseq](https://github.com/rewbs/sd-parseq) - Parameter sequencer for Stable Diffusion
@@ -1869,13 +1884,13 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1887,7 +1902,6 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -1937,7 +1951,7 @@
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) - Freeter – a smarter way to work on your computer
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
@@ -1971,7 +1985,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 - [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
-- [easy-temps/vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
+- [vue-zone/vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
 - [umbrella22/electron-vite-template](https://github.com/umbrella22/electron-vite-template) - This project is a vue3 + Vite + electron project template composed of Vite and rollup. It has the same functions as my previous electron+Vue+template project
@@ -2070,7 +2084,6 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
 - [surmon-china/videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
-- [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
