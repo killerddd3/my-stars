@@ -3465,7 +3465,7 @@
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-- [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions
+- [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions | JMComic3 | JMComic2
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [StellarRach/Counter-Strike-Augmented-Edition](https://github.com/StellarRach/Counter-Strike-Augmented-Edition) - Counter-Strike Augmented Edition public repository
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
@@ -3645,7 +3645,7 @@
 - [X1a0He/StarUML-CrackedAndTranslate](https://github.com/X1a0He/StarUML-CrackedAndTranslate) - StarUML 汉化与完美破解
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
 - [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
 - [mingx9527/Data_Label_Tools](https://github.com/mingx9527/Data_Label_Tools) - 收集整理开源的数据标注工具
 - [RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
@@ -4204,7 +4204,7 @@
 ## pytorch 
 
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
-- [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
+- [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [donydchen/ganimation_replicate](https://github.com/donydchen/ganimation_replicate) - An Out-of-the-Box Replication of GANimation using PyTorch, pretrained weights are available!
 - [ai-forever/ghost-2.0](https://github.com/ai-forever/ghost-2.0) - A new one shot head swapping approach
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
