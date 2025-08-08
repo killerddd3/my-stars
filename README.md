@@ -584,7 +584,7 @@
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+- [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将不带国标功能的摄像机/直播流/直播推流转发到其他国标平台。
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
@@ -601,7 +601,7 @@
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据
 - [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -1063,6 +1063,7 @@
 
 ## Others 
 
+- [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - Official WSA Toolbox repo for release notes
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
@@ -1361,7 +1362,7 @@
 - [scraed/LanPaint](https://github.com/scraed/LanPaint) - High quality training free inpaint for every stable diffusion model. Supports ComfyUI
 - [G-U-N/Motion-I2V](https://github.com/G-U-N/Motion-I2V) - [SIGGRAPH 2024] Motion I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling
 - [dvlab-research/ControlNeXt](https://github.com/dvlab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) - [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
 - [catcathh/UltraPixel](https://github.com/catcathh/UltraPixel) - Implementation of UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
