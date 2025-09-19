@@ -1001,7 +1001,6 @@
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [Tamsiree/RxTool](https://github.com/Tamsiree/RxTool) - Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片
@@ -1312,7 +1311,7 @@
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种模态模型，兼容超低配置机器。Extremely fast live recording, automatic slicing, rendering, uploading and Integrating MLLMs. Compatible with low configurations machines.
-- [TIGER-AI-Lab/Pixel-Reasoner](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) - Pixel-Level Reasoning Model trained with RL
+- [TIGER-AI-Lab/Pixel-Reasoner](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) - Pixel-Level Reasoning Model trained with RL [NeuIPS25]
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [MYZY-AI/Muyan-TTS](https://github.com/MYZY-AI/Muyan-TTS) - 
@@ -1440,7 +1439,7 @@
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 - [piddnad/DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
 - [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl) - Implementation of "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"(ICCV2025)
-- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Training released! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough 
+- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - [NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough to r
 - [franciszzj/Leffa](https://github.com/franciszzj/Leffa) - [CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -1497,7 +1496,7 @@
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [TencentQQGYLab/ELLA](https://github.com/TencentQQGYLab/ELLA) - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
-- [mayuelala/FollowYourEmoji](https://github.com/mayuelala/FollowYourEmoji) - [Siggraph Asia 2024] Follow-Your-Emoji: This repo is the official implementation of "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation"
+- [mayuelala/FollowYourEmoji](https://github.com/mayuelala/FollowYourEmoji) - [Siggraph Asia 2024 & IJCV 2025] Follow-Your-Emoji: This repo is the official implementation of "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation"
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [GSeanCDAT/GIMM-VFI](https://github.com/GSeanCDAT/GIMM-VFI) - [NeurIPS 2024] Generalizable Implicit Motion Modeling for Video Frame Interpolation
 - [gojasper/LBM](https://github.com/gojasper/LBM) - LBM: Latent Bridge Matching for Fast Image-to-Image Translation ✨ (ICCV 2025 Highlight)
@@ -1524,7 +1523,7 @@
 - [damo-cv/RealisDance](https://github.com/damo-cv/RealisDance) - The official implementation of RealisDance
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / LLaMA Factory / veRL/ Swift / Ultralyt
-- [Drexubery/ViewCrafter](https://github.com/Drexubery/ViewCrafter) - Official implementation of "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis"
+- [Drexubery/ViewCrafter](https://github.com/Drexubery/ViewCrafter) - [TPAMI 2025]  ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -1821,6 +1820,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## SCSS 
 
