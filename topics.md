@@ -1075,7 +1075,6 @@
 ## data 
 
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
@@ -1336,7 +1335,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
+- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
@@ -1848,7 +1847,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
+- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2532,7 +2531,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [atomix/atomix](https://github.com/atomix/atomix) - A Kubernetes toolkit for building distributed applications using cloud native principles
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
+- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
@@ -3263,6 +3262,7 @@
 
 ## others 
 
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
