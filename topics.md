@@ -307,7 +307,6 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -381,6 +380,7 @@
 
 ## android 
 
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -1175,7 +1175,7 @@
 
 ## database 
 
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
@@ -1366,7 +1366,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
@@ -1979,7 +1979,7 @@
 
 ## hacktoberfest 
 
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
@@ -2102,6 +2102,7 @@
 
 ## haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -2199,6 +2200,7 @@
 
 ## ios 
 
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -2272,12 +2274,12 @@
 - [apache/ambari](https://github.com/apache/ambari) - Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters.
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
 - [Sayi/poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
-- [apache/fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
+- [apache/fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [liuran001/GJZS](https://github.com/liuran001/GJZS) - 搞机助手·R（原「搞机助手重制版」）
@@ -2361,7 +2363,7 @@
 
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [isboyjc/isle-editor](https://github.com/isboyjc/isle-editor) - Open source web editor, supports rich text, block, markdown editing, efficient and out-of-the-box, based on ProseMirror and TipTap.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -2524,8 +2526,8 @@
 ## js 
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -2930,6 +2932,7 @@
 
 ## markdown 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -3369,7 +3372,7 @@
 - [Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 - [shika-works/pixelium-design](https://github.com/shika-works/pixelium-design) - Pixelium Design – A pixel-art UI component library for Vue, built with TypeScript and Vite. Nostalgic aesthetics, tree-shakable components, dark/light themes, and full type safety out of the box.
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
@@ -3401,7 +3404,6 @@
 - [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
 - [xiaoyaocz/flutter_dmzj](https://github.com/xiaoyaocz/flutter_dmzj) - 动漫之家第三方Flutter客户端
-- [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - Manage your personal media library, organize your collection, and stream your content in real time, no waiting required!
 - [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
 - [Tencent-Hunyuan/HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) - 
 - [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
@@ -4264,6 +4266,7 @@
 
 ## publishing 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 
 ## pwa 
@@ -5111,6 +5114,7 @@
 
 ## typescript 
 
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
@@ -5315,7 +5319,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [opentiny/tiny-vue](https://github.com/opentiny/tiny-vue) - TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
