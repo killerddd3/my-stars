@@ -983,7 +983,7 @@
 - [yueeng/hacg](https://github.com/yueeng/hacg) - 琉璃神社 hacg android app
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
@@ -1295,6 +1295,8 @@
 
 ## Python 
 
+- [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decod
 - [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) - SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts from text.
 - [guyyariv/DyPE](https://github.com/guyyariv/DyPE) - Official implementation for "DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion".
@@ -1638,7 +1640,7 @@
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
@@ -1806,7 +1808,6 @@
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [gagayuan/runoob-PDF-](https://github.com/gagayuan/runoob-PDF-) - 爬取菜鸟教程网站并转PDF__python_crawer_by_chrome
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
 - [HaoZhang95/Python24](https://github.com/HaoZhang95/Python24) - 网上搜集的自学python语言的资料集合,包括整套代码和讲义集合，这是至今为止所开放网上能够查找到的最新视频教程，网上找不到其他最新的python整套视频了,. 具体的无加密的mp4视频教程和讲义集合可以在更新的Readme文件中找到，下载直接打开就能播放，项目从零基础的Python教程到深度学习，总共30章节，其中包含Python基础中的飞机大战项目，WSGI项目，Flask新经资讯项目， Dj
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
@@ -1936,6 +1937,7 @@
 
 ## TypeScript 
 
+- [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron + Flutter搭建的远程桌面控制
 - [AnsGoo/openDataV](https://github.com/AnsGoo/openDataV) - OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。
 - [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI.
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
@@ -2161,7 +2163,7 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) - 
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 - [le5le-com/meta2d.js](https://github.com/le5le-com/meta2d.js) - The meta2d.js is real-time data exchange and interactive web 2D engine. Developers are able to build Web SCADA, IoT, Digital twins and so on. Meta2d.js是一个实时数据响应和交互的2d引擎，可用于Web组态，物联网，数字孪生等场景。
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [frangoteam/FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
