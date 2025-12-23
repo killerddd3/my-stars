@@ -156,6 +156,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -302,7 +303,7 @@
 - [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -540,6 +541,7 @@
 
 ## angular 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
@@ -627,7 +629,6 @@
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [allinssl/allinssl](https://github.com/allinssl/allinssl) - AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -974,7 +975,7 @@
 ## cms 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 
 ## code 
@@ -998,6 +999,7 @@
 
 ## compiler 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -1401,7 +1403,7 @@
 ## discord 
 
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 
 ## django 
 
@@ -1434,7 +1436,7 @@
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
@@ -1609,7 +1611,7 @@
 ## english 
 
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
@@ -1836,7 +1838,7 @@
 
 - [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
+- [andrewmd5/Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 
 ## gaming 
 
@@ -2072,6 +2074,7 @@
 
 ## hacktoberfest 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -2788,7 +2791,7 @@
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [EliverLara/Ant](https://github.com/EliverLara/Ant) - :ant:  A flat and light theme with a modern look
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -2842,6 +2845,7 @@
 
 ## llm 
 
+- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -2883,7 +2887,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [luban-agi/Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2944,7 +2948,7 @@
 ## mac 
 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
@@ -3082,6 +3086,20 @@
 - [Byron4j/CookBook](https://github.com/Byron4j/CookBook) - 🎉🎉🎉JAVA高级架构师技术栈==任何技能通过 “刻意练习” 都可以达到融会贯通的境界，就像烹饪一样，这里有一份JAVA开发技术手册，只需要增加自己练习的次数。🏃🏃🏃
 - [java-aodeng/hope-boot](https://github.com/java-aodeng/hope-boot) - 🌱 一款现代化的脚手架项目
 
+## microservices 
+
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
+- [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform) - 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
 ## microsoft 
 
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -3112,7 +3130,7 @@
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
@@ -3257,6 +3275,7 @@
 
 ## no-code 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -3319,7 +3338,7 @@
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
-- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -3424,7 +3443,7 @@
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3723,7 +3742,7 @@
 - [Stable-X/StableNormal](https://github.com/Stable-X/StableNormal) - [SIGGRAPH Asia 2024 (Journal Track)] StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [TencentQQGYLab/ELLA](https://github.com/TencentQQGYLab/ELLA) - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
-- [mayuelala/FollowYourEmoji](https://github.com/mayuelala/FollowYourEmoji) - [Siggraph Asia 2024 & IJCV 2025] Follow-Your-Emoji: This repo is the official implementation of "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation"
+- [mayuelala/FollowYourEmoji](https://github.com/mayuelala/FollowYourEmoji) - [Siggraph Asia 2024 & IJCV 2025] Follow-Your-Emoji & Follow-Your-Emoji-Faster: This repo is the official implementation of "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Anima
 - [GSeanCDAT/GIMM-VFI](https://github.com/GSeanCDAT/GIMM-VFI) - [NeurIPS 2024] Generalizable Implicit Motion Modeling for Video Frame Interpolation
 - [gojasper/LBM](https://github.com/gojasper/LBM) - LBM: Latent Bridge Matching for Fast Image-to-Image Translation ✨ (ICCV 2025 Highlight)
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
@@ -4051,7 +4070,7 @@
 - [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-- [ruiqianyi/Mybatis-PageHelper](https://github.com/ruiqianyi/Mybatis-PageHelper) - Mybatis通用分页插件
+- [pagehelper-org/Mybatis-PageHelper](https://github.com/pagehelper-org/Mybatis-PageHelper) - Mybatis通用分页插件
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [oureveryday/PikPak_By_Shimily_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak_By_Shimily
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:
@@ -4338,6 +4357,7 @@
 
 ## productivity 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4614,7 +4634,7 @@
 - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
@@ -4640,6 +4660,7 @@
 
 ## react 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [jd-opensource/taro-ui](https://github.com/jd-opensource/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -5087,6 +5108,7 @@
 
 ## svelte 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -5141,7 +5163,7 @@
 
 ## telegram 
 
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
@@ -5339,6 +5361,7 @@
 - [L1yp/van](https://github.com/L1yp/van) - springboot + bpmnjs + flowable/activiti/camunda + form-design + rbac工作流低代码实战项目
 - [yitter/IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -5469,6 +5492,7 @@
 
 ## vue 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [jd-opensource/nutui](https://github.com/jd-opensource/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
@@ -5539,7 +5563,7 @@
 - [jetlinks/jetlinks-ui-vue](https://github.com/jetlinks/jetlinks-ui-vue) - JetLinks  前端Vue版本
 - [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the 
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
-- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [dromara/RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
@@ -5599,7 +5623,7 @@
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
 - [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A backend management system based on vue3, typescript, element-plus, and vite
 - [miyuesc/bpmn-process-designer](https://github.com/miyuesc/bpmn-process-designer) - bpmn-js 工具库
-- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) - A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
@@ -5677,6 +5701,7 @@
 
 ## windows 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
@@ -5692,7 +5717,7 @@
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
