@@ -113,37 +113,51 @@ def generate_slug(text):
 
 # --- 保存逻辑 ---
 def save_md(lists_content, uncategorized):
-    # 获取并排序所有分类名称
     sorted_list_names = sorted(lists_content.keys())
 
-    with open("lists.md", "w", encoding="utf-8") as f:
+    with open("LISTS.md", "w", encoding="utf-8") as f:
         f.write(f"# GitHub Stars & Lists - {username}\n\n")
 
-        # --- 1. 生成目录 (Contents) ---
+        # 目录锚点
+        f.write("<a name='contents'></a>\n")
         f.write("## Contents\n\n")
+
+        # --- 1. 生成目录 (关键修正点) ---
         for name in sorted_list_names:
-            slug = generate_slug(name)
+            count = len(lists_content[name])
+            # 目录显示的文字可以是 "NSFW"，但链接必须包含 "(10)" 部分生成的锚点
+            full_title_text = f"{name} ({count})"
+            slug = generate_slug(full_title_text)
             f.write(f"- [{name}](#{slug})\n")
 
         if uncategorized:
-            f.write(f"- [未分类 (Uncategorized)](#未分类-uncategorized)\n")
+            full_uncat_text = f"未分类 (Uncategorized) ({len(uncategorized)})"
+            slug = generate_slug(full_uncat_text)
+            f.write(f"- [未分类 (Uncategorized)](#{slug})\n")
 
-        f.write("\n---\n\n")  # 分割线
+        f.write("\n---\n\n")
 
         # --- 2. 生成正文 ---
         for name in sorted_list_names:
             repos = lists_content[name]
-            f.write(f"## {name} ({len(repos)})\n")
+            count = len(repos)
+
+            # 这里的标题必须和上面生成 slug 的逻辑完全对应
+            f.write(f"## {name} ({count})\n")
+
             for r in repos:
                 desc = r.get('description') or "No description"
                 f.write(f"- [{r['nameWithOwner']}]({r['url']}) - {desc}\n")
-            f.write("\n")
 
-        # 写入未分类部分
+            f.write(f"\n[↑ Back to Top](#contents)\n\n")
+
+        # 写入未分类
         if uncategorized:
-            f.write(f"## 未分类 (Uncategorized) ({len(uncategorized)})\n")
+            count_uncat = len(uncategorized)
+            f.write(f"## 未分类 (Uncategorized) ({count_uncat})\n")
             for r in uncategorized:
                 f.write(f"- [{r['nameWithOwner']}]({r['url']}) - {r['description']}\n")
+            f.write(f"\n[↑ Back to Top](#contents)\n\n")
 
 
 if __name__ == "__main__":
