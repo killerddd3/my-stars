@@ -115,7 +115,7 @@ def generate_slug(text):
 def save_md(lists_content, uncategorized):
     sorted_list_names = sorted(lists_content.keys())
 
-    with open("LISTS.md", "w", encoding="utf-8") as f:
+    with open("lists.md", "w", encoding="utf-8") as f:
         f.write(f"# GitHub Stars & Lists - {username}\n\n")
 
         # 目录锚点
