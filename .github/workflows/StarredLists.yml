@@ -22,7 +22,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # 注意：这里建议使用具有 read:user 权限的 PAT
           USERNAME: ${{ github.repository_owner }}
-        run: python sync_lists.py
+        run: python export_starred_lists.py
 
       - name: Commit and Push
         run: |
