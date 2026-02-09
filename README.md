@@ -1,3 +1,3 @@
-- [by-langs](https://github.com/killerddd3/my-stars/edit/master/langs.md)
-- [by-topics](https://github.com/killerddd3/my-stars/edit/master/topics.md)
-- [by-lists](https://github.com/killerddd3/my-stars/edit/master/lists.md)
+- [by-langs](https://github.com/killerddd3/my-stars/blob/master/langs.md)
+- [by-topics](https://github.com/killerddd3/my-stars/blob/master/topics.md)
+- [by-lists](https://github.com/killerddd3/my-stars/blob/master/lists.md)
