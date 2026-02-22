@@ -918,6 +918,7 @@
 
 ## csharp 
 
+- [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 - [neelabo/NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
@@ -1518,6 +1519,7 @@
 
 ## framework 
 
+- [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [iampawan/VelocityX](https://github.com/iampawan/VelocityX) - A minimalist Flutter framework for rapidly building Flutter apps.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -1979,6 +1981,7 @@
 
 ## http 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
@@ -3051,6 +3054,16 @@
 
 ## others 
 
+- [mIwaYuhang/ODPY](https://github.com/mIwaYuhang/ODPY) - 
+- [thexeondev/Shorekeeper](https://github.com/thexeondev/Shorekeeper) - Wuthering Waves server emulator written in Rust
+- [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
+- [MikuLeaks/KianaBH3](https://github.com/MikuLeaks/KianaBH3) - 
+- [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data) - A repository containing datamined data for the game Wuthering Waves
+- [DimbreathBot/AnimeGameData](https://github.com/DimbreathBot/AnimeGameData) - Repository containing the release data for Genshin Impact.
+- [ManlyMarco/KK-HF_Patch](https://github.com/ManlyMarco/KK-HF_Patch) - Automatically translate, uncensor and update Koikatu! and Koikatsu Party!
+- [Sycamore0/PemukulPaku](https://github.com/Sycamore0/PemukulPaku) - backup
+- [EpinelPS/EpinelPS](https://github.com/EpinelPS/EpinelPS) - A private server for some anime game
+- [loongling/LocalArknights](https://github.com/loongling/LocalArknights) - 一个明日方舟本地服务端.注意！仅供学习使用
 - [yaoliliu/FreeFuse](https://github.com/yaoliliu/FreeFuse) - FreeFuse: Multi-Subject LoRA Fusion via Adaptive Token-Level Routing at Test Time
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [slzray/binaray_project](https://github.com/slzray/binaray_project) - 
@@ -3184,7 +3197,7 @@
 - [Moonofweisheng/wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [1204244136/DoroHelper](https://github.com/1204244136/DoroHelper) - Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.
-- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decod
+- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - [CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny condi
 - [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) - SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts from text.
 - [guyyariv/DyPE](https://github.com/guyyariv/DyPE) - Official implementation for "DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion".
 - [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
@@ -4106,6 +4119,7 @@
 
 ## python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [erma0/douyin](https://github.com/erma0/douyin) - 抖音爬虫——采集账号主页、喜欢、收藏、音乐原声、话题、搜索、合集、作品、关注、粉丝等公开数据。
@@ -4551,6 +4565,7 @@
 
 ## security 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
@@ -4940,6 +4955,8 @@
 
 ## unity 
 
+- [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+- [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
 - [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy) - UnityPy is python module that makes it possible to extract/unpack and edit Unity assets
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
@@ -5171,6 +5188,7 @@
 
 ## windows 
 
+- [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [NJU-TJL/Qt5-MusicPlayer](https://github.com/NJU-TJL/Qt5-MusicPlayer) - 基于Qt5开发的一个小巧精美的本地音乐播放器。代码注释详细，适合作为一个用于入门的Qt5实战项目。
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
