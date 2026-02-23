@@ -1527,7 +1527,7 @@
 - [ZeyueT/AudioX](https://github.com/ZeyueT/AudioX) - Repository of AudioX
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 - [deepbrainai-research/float](https://github.com/deepbrainai-research/float) - [ICCV 2025] Official Pytorch Implementation of FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait.
-- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 🌊 Images to → 3D Parallax effect video. A free and open source ImmersityAI alternative
+- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 🌊 Images to 3D Parallax effect video
 - [saradorfman1/IP_Composer](https://github.com/saradorfman1/IP_Composer) - 
 - [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
 - [bytedance/ComfyUI-HyperLoRA](https://github.com/bytedance/ComfyUI-HyperLoRA) - [CVPR 2025 Highlight🌟] Official ComfyUI implementation of "HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis"
