@@ -30,5 +30,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add lists.md
           git commit -m "Update GitHub Lists content" || exit 0
-          git pull
+          git pull --no-rebase
           git push
