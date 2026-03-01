@@ -3,17 +3,17 @@
 <a name='contents'></a>
 ## Contents
 
-- [AI](#ai-362)
-- [APP](#app-396)
+- [AI](#ai-363)
+- [APP](#app-397)
 - [Game](#game-23)
-- [IT](#it-443)
+- [IT](#it-444)
 - [NAS](#nas-57)
 - [NSFW](#nsfw-10)
 - [未分类 (Uncategorized)](#-uncategorized-1037)
 
 ---
 
-## AI (362)
+## AI (363)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -376,10 +376,11 @@
 - [yaoliliu/FreeFuse](https://github.com/yaoliliu/FreeFuse) - FreeFuse: Multi-Subject LoRA Fusion via Adaptive Token-Level Routing at Test Time
 - [inclusionAI/MingTok-Audio](https://github.com/inclusionAI/MingTok-Audio) - No description
 - [inclusionAI/Ming-omni-tts](https://github.com/inclusionAI/Ming-omni-tts) - Ming-omni-tts: Simple and Efficient Unified Generation of Speech, Music, and Sound with Precise Control
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 
 [↑ Back to Top](#contents)
 
-## APP (396)
+## APP (397)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
@@ -455,7 +456,7 @@
 - [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - Desktop app for automatically translating comics - BDs, Manga, Manhwa, Fumetti and more in a variety of formats (Image, Pdf, Epub, cbr, cbz, etc) and in multiple languages.
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
-- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年2月更新，百度网盘(百度云)不限速工具分享。
+- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年3月更新，百度网盘(百度云)不限速工具分享。
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -743,7 +744,7 @@
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [zhanghai/Douya](https://github.com/zhanghai/Douya) - 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
-- [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+- [getlantern/lantern](https://github.com/getlantern/lantern) - Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
 - [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
@@ -776,6 +777,7 @@
 - [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [zrt-ai-lab/ViNote](https://github.com/zrt-ai-lab/ViNote) - ViNote（视记AI）— 开源的 AI 视频知识提取工具。输入视频链接或本地文件，一键生成笔记、知识卡片、思维导图，支持智能问答和多语言翻译。内置 ViNoter 超级智能体，基于 ANP 协议实现对话式跨平台视频搜索与处理。Video to Everything, 让每个视频成为你的知识资产。
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 
 [↑ Back to Top](#contents)
 
@@ -806,7 +808,7 @@
 
 [↑ Back to Top](#contents)
 
-## IT (443)
+## IT (444)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1104,7 +1106,7 @@
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy) - UnityPy is python module that makes it possible to extract/unpack and edit Unity assets
 - [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) - A curated list of awesome data labeling tools
@@ -1250,6 +1252,7 @@
 - [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 [↑ Back to Top](#contents)
 
@@ -2034,7 +2037,7 @@
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
-- [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+- [hsskyboy/NPatch](https://github.com/hsskyboy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 - [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
 - [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
