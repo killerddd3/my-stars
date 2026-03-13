@@ -479,6 +479,7 @@
 
 ## api 
 
+- [L-1124/QQMusicApi](https://github.com/L-1124/QQMusicApi) - Python QQ音乐Api封装库
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -786,7 +787,6 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 ## chrome 
@@ -1239,7 +1239,7 @@
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
@@ -1679,7 +1679,7 @@
 - [allinssl/allinssl](https://github.com/allinssl/allinssl) - AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -1716,7 +1716,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
@@ -1778,7 +1777,6 @@
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 
@@ -2771,7 +2769,7 @@
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -3609,7 +3607,7 @@
 - [52funny/pikpakcli](https://github.com/52funny/pikpakcli) - pikpak command line tool. Including download, upload, share and so on.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [Yuri-NagaSaki/wonderful-acg](https://github.com/Yuri-NagaSaki/wonderful-acg) - 一些有趣的acg项目
-- [2061360308/NeteaseCloudMusic_PythonSDK](https://github.com/2061360308/NeteaseCloudMusic_PythonSDK) - NeteaseCloudMusic封装的Python SDK，网易云API Python版本。纯Python使用网易云音乐接口，无需后端。现已同步原项目接口且测试通过的有200多个，已发布到pypi，可直接使用pip安装。
+- [2061360308/NeteaseCloudMusic_PythonSDK](https://github.com/2061360308/NeteaseCloudMusic_PythonSDK) - 多语言音乐 API 绑定库，支持网易云（NeteaseCloudMusicApi）、酷狗（KuGouMusicApi）的音乐服务，已绑定 python语言 和 dart语言，实现 netease 与 kugou 数据操作和访问，适用于音乐应用学习讨论。
 - [NiLuJe/KUAL_Booklet](https://github.com/NiLuJe/KUAL_Booklet) - a Staging location to track my changes from https://bitbucket.org/ixtab/kindlelauncher
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
@@ -3963,6 +3961,7 @@
 - [pursue-wind/hello-spring-cloud-alibaba](https://github.com/pursue-wind/hello-spring-cloud-alibaba) - SpringCloudAlibaba的详细使用，包括Nacos，Sentinel，Feign，Gateway，Skywalking等
 - [Five-great/tinymce-plugins](https://github.com/Five-great/tinymce-plugins) - This is tinymce plugins
 - [yinjihuan/spring-cloud](https://github.com/yinjihuan/spring-cloud) - 《Spring Cloud微服务-全栈技术与案例解析》和《Spring Cloud微服务 入门 实战与进阶》配套源码
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -4349,6 +4348,7 @@
 
 ## python3 
 
+- [L-1124/QQMusicApi](https://github.com/L-1124/QQMusicApi) - Python QQ音乐Api封装库
 - [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy) - UnityPy is python module that makes it possible to extract/unpack and edit Unity assets
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
@@ -4459,7 +4459,7 @@
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -4687,7 +4687,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -4851,7 +4851,6 @@
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## tensorflow 
