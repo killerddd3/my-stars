@@ -2484,7 +2484,7 @@
 
 ## library 
 
-- [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
+- [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、多语言、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
@@ -2579,7 +2579,7 @@
 
 ## llm 
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, 
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
@@ -2632,7 +2632,7 @@
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [luban-agi/Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -3169,7 +3169,7 @@
 - [WuFengXue/android-reverse](https://github.com/WuFengXue/android-reverse) - 安卓逆向工具汇总 / Awsome Android Reverse Tools
 - [getlantern/lantern](https://github.com/getlantern/lantern) - Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.
 - [qiurunze123/memoryoptimization](https://github.com/qiurunze123/memoryoptimization) - ⭐⭐⭐⭐JVM内存结构GC分析 如何配置生产的JVM参数 你其实更需要
-- [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+- [easychen/opc-methodology](https://github.com/easychen/opc-methodology) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 - [zhangbc/eBooks](https://github.com/zhangbc/eBooks) - eBook分享大集合：主要以IT领域经典书籍收藏，以备不时之需。
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -4208,7 +4208,7 @@
 - [FunAudioLLM/FunCineForge](https://github.com/FunAudioLLM/FunCineForge) - 
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -4962,7 +4962,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制
 - [AnsGoo/openDataV](https://github.com/AnsGoo/openDataV) - OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。
-- [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
+- [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、多语言、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
 - [jd-opensource/nutui](https://github.com/jd-opensource/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
