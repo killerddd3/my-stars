@@ -623,7 +623,7 @@
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削
 - [NiLuJe/KUAL_Booklet](https://github.com/NiLuJe/KUAL_Booklet) - a Staging location to track my changes from https://bitbucket.org/ixtab/kindlelauncher
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
