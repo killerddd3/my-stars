@@ -3,17 +3,17 @@
 <a name='contents'></a>
 ## Contents
 
-- [AI](#ai-373)
-- [APP](#app-428)
+- [AI](#ai-374)
+- [APP](#app-431)
 - [Game](#game-26)
-- [IT](#it-465)
+- [IT](#it-466)
 - [NAS](#nas-72)
 - [NSFW](#nsfw-11)
 - [未分类 (Uncategorized)](#-uncategorized-1034)
 
 ---
 
-## AI (373)
+## AI (374)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -325,6 +325,7 @@
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - No description
 - [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) - Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -390,7 +391,7 @@
 
 [↑ Back to Top](#contents)
 
-## APP (428)
+## APP (431)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -630,7 +631,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -819,6 +820,9 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository 
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
+- [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 [↑ Back to Top](#contents)
 
@@ -852,7 +856,7 @@
 
 [↑ Back to Top](#contents)
 
-## IT (465)
+## IT (466)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1067,7 +1071,7 @@
 - [Netflix/metacat](https://github.com/Netflix/metacat) - No description
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [TongchengOpenSource/smart-doc](https://github.com/TongchengOpenSource/smart-doc) - Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
@@ -1107,7 +1111,7 @@
 - [UnrealSharp/UnrealSharp](https://github.com/UnrealSharp/UnrealSharp) - UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# (.NET10) with Hot Reload
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - Template for exporting Markdown to docx (Word) using pandoc丨使用pandoc将markdown导出为docx的模板，适用于obsidian、typora、思源笔记等Markdown笔记软件
+- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - markdown导出为docx的模板，可控制文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件丨Template for exporting Markdown to docx (Word) using pandoc
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
@@ -1318,6 +1322,7 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 [↑ Back to Top](#contents)
 
@@ -2186,7 +2191,7 @@
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
-- [fantastic-admin/basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue3 管理系统框架，支持多款 UI 组件库，兼容PC、移动端。An out-of-the-box Vue3 management system framework, which supports a variety of UI component libraries and is compatible with PC and mobile device.
+- [fantastic-admin/basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 面向 AI 的管理系统框架，兼容PC、移动端。AI-oriented management system framework, compatible with PC and mobile device.
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline
 - [jondot/rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) - Hand curated advice and pointers for getting started with Rust
