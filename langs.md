@@ -610,6 +610,7 @@
 
 ## Java 
 
+- [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
@@ -1269,7 +1270,6 @@
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - Official WSA Toolbox repo for release notes
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
 - [ProbiusOfficial/CTFtools-wiki](https://github.com/ProbiusOfficial/CTFtools-wiki) - 【Hello CTF】录常用 / 优秀 的CTF工具项目及其文档,一个对各阶段CTFer都很友好的工具仓库,让所有的工具都发挥作用！
 - [sizzlebop/ComfyUI-Themes-Cyberpunk](https://github.com/sizzlebop/ComfyUI-Themes-Cyberpunk) - 🌟 A collection of cyberpunk-inspired themes for ComfyUI featuring neon aesthetics, dark contrasts, and vibrant color palettes..
@@ -1597,6 +1597,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -1606,7 +1607,7 @@
 - [facebookresearch/Multi-SpatialMLLM](https://github.com/facebookresearch/Multi-SpatialMLLM) - [CVPR 2026] Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models
 - [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - [NeurIPS 2025] Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
-- [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练67M参数的视觉多模态VLM！🌏 Train a 67M-parameter VLM from scratch in just 1 hours!
+- [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」2小时从0训练67M参数的视觉多模态VLM！🌏 Train a 67M-parameter VLM from scratch in just 2 hours!
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
