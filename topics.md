@@ -2920,7 +2920,7 @@
 
 - [yaoyao2mm/cheatreader](https://github.com/yaoyao2mm/cheatreader) - A floating desktop reader with transparent text-only mode for low-distraction reading.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - markdown导出为docx时使用的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件丨Template for exporting Markdown to docx (Word) using pandoc
+- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - Markdown导出为docx时使用的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件丨Template for exporting Markdown to docx (Word) using pandoc
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -3436,6 +3436,7 @@
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well 
+- [iamtherufus/Homio](https://github.com/iamtherufus/Homio) - 🏠 Homio is a clean, minimal, and fully YAML-based dashboard for Home Assistant
 - [wot-ui/wot-starter](https://github.com/wot-ui/wot-starter) - 🍀 基于 vitesse-uni-app 深度整合 Wot UI 组件库的 uni-app 快速起手项目
 - [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
 - [ssj9596/One-to-All-Animation](https://github.com/ssj9596/One-to-All-Animation) - [CVPR 2026 Poster] One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer
@@ -3674,7 +3675,6 @@
 - [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models, created by Genmo
 - [antgroup/echomimic](https://github.com/antgroup/echomimic) - [AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning
 - [bytedance/LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
-- [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio) - 
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3) - 
@@ -3790,7 +3790,7 @@
 - [ChirmyRam/ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 - [nwojke/deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
-- [opendatalab/labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
+- [opendatalab/labelU](https://github.com/opendatalab/labelU) - Open-source multimodal data annotation platform with AI auto-annotation support.
 - [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
@@ -3925,6 +3925,7 @@
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [clinlx/CN_GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI) - 用WPF开发的GreenLuma的简单易用的中文图形界面
+- [pjy612/SteamManifestCache](https://github.com/pjy612/SteamManifestCache) - Steam Depot Manifest Files Cache
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [xjunz/AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
 - [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。
@@ -4940,6 +4941,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [taoshihan1991/goflylivechat](https://github.com/taoshihan1991/goflylivechat) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang
