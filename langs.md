@@ -2248,6 +2248,7 @@
 
 ## TypeScript 
 
+- [octasoft-ltd/wsl-ui](https://github.com/octasoft-ltd/wsl-ui) - WSL2 Manager desktop application built with Tauri, Vite, React, and TypeScript
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [SzeMeng76/LunaTV](https://github.com/SzeMeng76/LunaTV) - 
 - [Ouonnki/OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) - Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改
@@ -2309,6 +2310,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [NasDock/AudioDock](https://github.com/NasDock/AudioDock) - 声仓（AudioDock）一款音乐和有声书一体的本地化播放器，支持多端同步
+- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -2323,7 +2325,7 @@
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era. 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [Moonofweisheng/wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -2610,7 +2612,6 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bruhnn/BD2ModManager](https://github.com/bruhnn/BD2ModManager) - Brown Dust 2 Mod Manager to help you manage mods.
 - [wot-ui/wot-starter](https://github.com/wot-ui/wot-starter) - 🍀 基于 vitesse-uni-app 深度整合 Wot UI 组件库的 uni-app 快速起手项目
-- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [sutras/sard-uniapp](https://github.com/sutras/sard-uniapp) - sard-uniapp 是一套基于 Uniapp + Vue3 框架开发的兼容多端的 UI 组件库。
 - [climblee/uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
 - [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、多语言、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
