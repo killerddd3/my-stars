@@ -1101,7 +1101,7 @@
 - [TongchengOpenSource/smart-doc](https://github.com/TongchengOpenSource/smart-doc) - Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
@@ -1540,7 +1540,7 @@
 - [CarGuo/gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [resumejob/free-project-course](https://github.com/resumejob/free-project-course) - Free course for Resume, 整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等
 - [Juude/droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ganlvtech/down_52pojie_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 https://down.52pojie.cn/ 页面的源代码
 - [LJWLgl/CommonUtil](https://github.com/LJWLgl/CommonUtil) - 轻便简单的Java常用工具类库
@@ -2468,7 +2468,7 @@
 - [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
 - [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. 
 - [ydf0509/pythonpathdemo](https://github.com/ydf0509/pythonpathdemo) - 用专门的项目说明掌握python的 PYTHONPATH的重要性；说明窗口会话临时环境变量和永久性环境变量区别；说明pythonpath的好处；说明pythonpath的妙用。学了PYTHONPATH 写几十个项目复用公共代码如虎添翼
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
