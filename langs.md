@@ -634,7 +634,7 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
@@ -867,7 +867,7 @@
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -2577,7 +2577,7 @@
 - [yezihaohao/react-admin](https://github.com/yezihaohao/react-admin) - :sparkles: react-admin system solution : react 后台管理系统解决方案
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
