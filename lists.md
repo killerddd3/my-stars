@@ -4,10 +4,10 @@
 ## Contents
 
 - [AI](#ai-374)
-- [APP](#app-467)
-- [Game](#game-26)
-- [IT](#it-472)
-- [NAS](#nas-78)
+- [APP](#app-474)
+- [Game](#game-27)
+- [IT](#it-475)
+- [NAS](#nas-79)
 - [NSFW](#nsfw-11)
 - [未分类 (Uncategorized)](#-uncategorized-1033)
 
@@ -300,8 +300,8 @@
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [TIGER-AI-Lab/Pixel-Reasoner](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) - Pixel-Level Reasoning Model trained with RL [NeuIPS25]
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」2小时从0训练65M参数的视觉多模态VLM！🌏 Train a 65M-parameter VLM from scratch in just 2h! 
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 👀「大模型」2小时从0训练65M参数的视觉多模态VLM！Train a 65M-parameter VLM from scratch in just 2h! 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - [NeurIPS 2025] Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
@@ -391,7 +391,7 @@
 
 [↑ Back to Top](#contents)
 
-## APP (467)
+## APP (474)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -413,7 +413,7 @@
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [cuiocean/ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP) - ▶️ 跨平台移动端视频资源播放器. 简洁免费. 🎞 ZY Player 移动端 APP，基于 Uni-app 开发.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [easybangumiorg/EasyMyGo](https://github.com/easybangumiorg/EasyMyGo) - MyGo!!!!! ，使用 Flutter 开发的多小说、漫画软件。支持多源。
@@ -466,7 +466,7 @@
 - [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
-- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年4月更新，百度网盘(百度云)不限速工具分享。
+- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年5月更新，百度网盘(百度云)不限速工具分享。
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -859,10 +859,17 @@
 - [Ademking/BetterViewer](https://github.com/Ademking/BetterViewer) - a replacement for the image viewing mode built into Firefox and Chrome-based web browsers. 
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
 - [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
+- [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+- [WeritoP/FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER) - Fl Stduio patch for lifetime works
+- [dungngminh/simutil](https://github.com/dungngminh/simutil) - Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [14790897/handwriting-web](https://github.com/14790897/handwriting-web) - 将文本转为模拟手写文字的网页版
 
 [↑ Back to Top](#contents)
 
-## Game (26)
+## Game (27)
 - [1204244136/DoroHelper](https://github.com/1204244136/DoroHelper) - Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.
 - [bruhnn/BD2ModManager](https://github.com/bruhnn/BD2ModManager) - Brown Dust 2 Mod Manager to help you manage mods.
 - [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) - Modding platform for GI, HSR, WW and ZZZ
@@ -889,10 +896,11 @@
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+- [Reyhankunlah/Yuzu-Emulator-Nintendo-Switch](https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch) - Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build
 
 [↑ Back to Top](#contents)
 
-## IT (472)
+## IT (475)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1199,7 +1207,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [Mrkuhuo/data-warehouse-learning](https://github.com/Mrkuhuo/data-warehouse-learning) - 【2026最新版】 大数据 数据分析 电商系统 实时数仓 离线数仓 数据湖 建设方案及实战代码，涉及组件 #flink #paimon #doris #seatunnel #dolphinscheduler #datart #dinky #hudi #iceberg。
+- [MrSuiChuan/data-warehouse-learning](https://github.com/MrSuiChuan/data-warehouse-learning) - 【2026最新版】 大数据 数据分析 电商系统 实时数仓 离线数仓 数据湖 建设方案及实战代码，涉及组件 #flink #paimon #doris #seatunnel #dolphinscheduler #datart #dinky #hudi #iceberg。
 - [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
 - [642933588/jiron-cloud](https://github.com/642933588/jiron-cloud) - 该项目整合了多款优秀的开源产品，构建了一个功能全面的数据开发平台。平台提供了强大的数据集成、数据开发、数据查询、数据服务、数据质量管理、工作流调度和元数据管理功能。#dinky #dolphinscheduler #datavines #flinkcdc #openmetadata #flink #数据开发 #数据平台 # 数据开发平台 #大数据
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
@@ -1365,10 +1373,13 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
 [↑ Back to Top](#contents)
 
-## NAS (78)
+## NAS (79)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1447,6 +1458,7 @@
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [kfstorm/douban-idatabase](https://github.com/kfstorm/douban-idatabase) - A FastAPI-based web API service that aggregates movie/TV metadata from multiple sources including Douban, IMDB, TMDB, and TVDB.
 - [Anyesh/wardrowbe](https://github.com/Anyesh/wardrowbe) - Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
+- [weirded/distributed-esphome](https://github.com/weirded/distributed-esphome) - ESPHome Fleet - Better ESPHome management add-on. 
 
 [↑ Back to Top](#contents)
 
@@ -1500,7 +1512,7 @@
 - [DaoCloud-Labs/miracle](https://github.com/DaoCloud-Labs/miracle) - No description
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
-- [HaoZhang95/Python24](https://github.com/HaoZhang95/Python24) - 网上搜集的自学python语言的资料集合,包括整套代码和讲义集合，这是至今为止所开放网上能够查找到的最新视频教程，网上找不到其他最新的python整套视频了,. 具体的无加密的mp4视频教程和讲义集合可以在更新的Readme文件中找到，下载直接打开就能播放，项目从零基础的Python教程到深度学习，总共30章节，其中包含Python基础中的飞机大战项目，WSGI项目，Flask新经资讯项目， Django的电商项目(本应该的美多商城项目因为使用的是Vue技术，所以替换为Django天天生鲜项目)等等，希望能够帮助大家。资源搜集劳神费力，能帮到你的话是我的福分,望大家多多支持,喜欢本仓库的话，记得Star哦。
+- [HaoZhang95/Python24](https://github.com/HaoZhang95/Python24) - 仓库主要为了学习Python和机器学习基础，每一章的具体知识点可以在下面的目录中详细查看课程大纲，具体的讲义文档，提供在线阅读和下载，大部分的章节讲义使用了Gitbook进行整章的阅读，同样的，在学习的过程中，我在代码中都每行进行了注释，基本上不用看文档也能理解，方便进行阅读和理解，**望大家多多支持,喜欢本仓库的话，记得Star哦，希望能够帮助大家。**
 - [justjavac/Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega) - 从零开始学编程 系列汇总（从α到Ω）
 - [DrizzleRisk/drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) - drizzleDumper是一款基于内存搜索的Android脱壳工具。
 - [topyzc/VBlog](https://github.com/topyzc/VBlog) - springBoot+vue  个人博客系统
