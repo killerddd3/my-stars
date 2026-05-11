@@ -1139,7 +1139,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. Available in TypeScript!
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -1465,7 +1465,7 @@
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [kfstorm/douban-idatabase](https://github.com/kfstorm/douban-idatabase) - A FastAPI-based web API service that aggregates movie/TV metadata from multiple sources including Douban, IMDB, TMDB, and TVDB.
 - [Anyesh/wardrowbe](https://github.com/Anyesh/wardrowbe) - Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
-- [weirded/distributed-esphome](https://github.com/weirded/distributed-esphome) - Fleet for ESPHome — Home Assistant add-on for managing fleets of ESPHome devices: distributed compile workers, version pinning, scheduled upgrades, fleet tags, and config history.
+- [weirded/fleet-for-esphome](https://github.com/weirded/fleet-for-esphome) - Fleet for ESPHome — Home Assistant add-on for managing fleets of ESPHome devices: distributed compile workers, version pinning, scheduled upgrades, fleet tags, and config history.
 
 [↑ Back to Top](#contents)
 
@@ -2318,7 +2318,7 @@
 - [XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme) - 专治强迫症
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
