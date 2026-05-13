@@ -1489,6 +1489,8 @@
 
 ## Python 
 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+- [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [icysaintdx/OpenCode-Config-Manager](https://github.com/icysaintdx/OpenCode-Config-Manager) - OpenCode Config Manager (OCCM) is a visual configuration management tool specifically designed for OpenCode and Oh My OpenCode.(OCCM) 是一款专为 OpenCode 和 Oh My OpenCode 设计的可视化配置管理工具。
 - [weirded/fleet-for-esphome](https://github.com/weirded/fleet-for-esphome) - Fleet for ESPHome — Home Assistant add-on for managing fleets of ESPHome devices: distributed compile workers, version pinning, scheduled upgrades, fleet tags, and config history.
 - [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
@@ -2138,7 +2140,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
