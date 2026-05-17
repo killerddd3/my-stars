@@ -2124,7 +2124,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 🔊 让小爱音箱「听见你的声音」，解锁无限可能。
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
@@ -2435,7 +2435,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -2500,7 +2500,7 @@
 - [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natura
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
 - [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
@@ -2683,7 +2683,7 @@
 - [crmeb/crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
 - [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
-- [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
+- [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite8、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
 - [megasanjay/vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A simple Vue 3 component for using Lottie animations in Vue 3
 - [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A backend management system based on vue3, typescript, element-plus, and vite
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
