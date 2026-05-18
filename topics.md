@@ -243,7 +243,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
@@ -753,7 +753,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React+vite+redux+ant design+axios+less全家桶后台管理框架
 
 ## bash 
 
@@ -1312,7 +1312,7 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 
@@ -1542,7 +1542,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React+vite+redux+ant design+axios+less全家桶后台管理框架
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
@@ -1666,7 +1666,7 @@
 - [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [iampawan/VelocityX](https://github.com/iampawan/VelocityX) - A minimalist Flutter framework for rapidly building Flutter apps.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
@@ -2961,7 +2961,7 @@
 - [yaoyao2mm/cheatreader](https://github.com/yaoyao2mm/cheatreader) - A floating desktop reader with transparent text-only mode for low-distraction reading.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
-- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - Markdown导出为docx时使用的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件丨Template for exporting Markdown to docx (Word) using pandoc
+- [Achuan-2/pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template) - 设置Markdown导出为docx时的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件，支持Codex、Claude Code调用skill丨Template for exporting Markdown to docx (Word) using pandoc
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -3966,7 +3966,6 @@
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [lllyasviel/Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 - [xingren23/ComfyFlowApp](https://github.com/xingren23/ComfyFlowApp) - From comfyui workflow to web app, in seconds
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -4826,7 +4825,7 @@
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React+vite+redux+ant design+axios+less全家桶后台管理框架
 - [yezihaohao/react-admin](https://github.com/yezihaohao/react-admin) - :sparkles: react-admin system solution : react 后台管理系统解决方案
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -4871,7 +4870,7 @@
 
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React+vite+redux+ant design+axios+less全家桶后台管理框架
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## rest-api 
@@ -5182,7 +5181,7 @@
 ## telegram 
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
@@ -5631,7 +5630,6 @@
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [FreeIess/TOMATOX](https://github.com/FreeIess/TOMATOX) - 基于Electron、React开发的全网在线免费VIP视频解析播放器，美剧、韩剧、日剧全资源，全平台（Windows、Linux、MacOS）可用
 - [neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain) - A chaining API to generate and simplify the modification of Webpack configurations.
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## website 
