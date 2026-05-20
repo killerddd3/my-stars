@@ -739,7 +739,6 @@
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [kerwincui/FastBee](https://github.com/kerwincui/FastBee) - FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
-- [iflytek/datasophon](https://github.com/iflytek/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
 - [WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio) - DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualizati
 - [scalecube/scalecube-cluster](https://github.com/scalecube/scalecube-cluster) - ScaleCube Cluster is a lightweight Java VM implementation of SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol. features cluster membership, failure detection, and gos
 - [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
@@ -985,7 +984,7 @@
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [raodv/report](https://github.com/raodv/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源----&gt;写SQL配置数据集----&gt;拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 - [bpmn-io/diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
