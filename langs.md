@@ -740,6 +740,7 @@
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [kerwincui/FastBee](https://github.com/kerwincui/FastBee) - FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+- [iflytek/datasophon](https://github.com/iflytek/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
 - [WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio) - DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualizati
 - [scalecube/scalecube-cluster](https://github.com/scalecube/scalecube-cluster) - ScaleCube Cluster is a lightweight Java VM implementation of SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol. features cluster membership, failure detection, and gos
 - [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
@@ -1359,7 +1360,7 @@
 - [Polarmods/DevX-Cracked](https://github.com/Polarmods/DevX-Cracked) - Cracked and improved version of DevX, a powerful Unity and Unreal Engine tool.
 - [HotBoy-java/PotatoTool](https://github.com/HotBoy-java/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With fea
 - [FrankHB/pl-docs](https://github.com/FrankHB/pl-docs) - Programming Language Documentations
-- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
