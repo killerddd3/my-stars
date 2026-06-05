@@ -298,7 +298,7 @@
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op Action Roguelike in Unreal Engine C++
 - [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 
 ## CMake 
@@ -491,7 +491,7 @@
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -579,6 +579,8 @@
 
 ## HTML 
 
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
+- [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer) - Ready-to-use Flyfish File Viewer artifacts for online preview of Office, PDF/OFD, CAD/3D, diagrams, images/audio/video, code/Markdown, archives, email, and ebooks.
 - [zarfadev/MobaXterm-Keygen](https://github.com/zarfadev/MobaXterm-Keygen) - MobaXterm Key Generate
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
@@ -777,7 +779,6 @@
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [yueyi2019/online-taxi](https://github.com/yueyi2019/online-taxi) - 网约车项目
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-- [ZhangQinhao/MONKOVEL](https://github.com/ZhangQinhao/MONKOVEL) - 一款可以优雅的阅读本地小说以及大量网络小说的APP
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
@@ -982,6 +983,7 @@
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [malred/generator-malred](https://github.com/malred/generator-malred) - 前端自用脚手架(支持eggjs,single-spa,next,nuxt,electron-vue的生成)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1127,6 +1129,8 @@
 
 ## Kotlin 
 
+- [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
+- [sky22333/skyadb](https://github.com/sky22333/skyadb) - Android 上的 adb 客户端软件，可以很方便的管理安卓手机、平板、电视和盒子。
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
@@ -1253,6 +1257,7 @@
 
 ## Others 
 
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 - [WeritoP/FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER) - Fl Stduio patch for lifetime works
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1497,6 +1502,9 @@
 
 ## Python 
 
+- [HELPMEEADICE/BANDORI-PET-REV](https://github.com/HELPMEEADICE/BANDORI-PET-REV) - BandoriPet 是一个基于 Live2D 和 PySide6 的开源桌面宠物项目，支持 50+ 位 BanG Dream! 角色、300+ 套服装，让你的桌面一秒变成 CiRCLE 排练室
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+- [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [icysaintdx/OpenCode-Config-Manager](https://github.com/icysaintdx/OpenCode-Config-Manager) - OpenCode Config Manager (OCCM) is a visual configuration management tool specifically designed for OpenCode and Oh My OpenCode.(OCCM) 是一款专为 OpenCode 和 Oh My OpenCode 设计的可视化配置管理工具。
@@ -2276,6 +2284,8 @@
 
 ## TypeScript 
 
+- [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [ShadowArcanist/netviz](https://github.com/ShadowArcanist/netviz) - A browser-based app for designing network architectures visually.
@@ -2342,7 +2352,7 @@
 - [alovajs/alova](https://github.com/alovajs/alova) - A request toolkit for ultimate efficiency
 - [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [NasDock/AudioDock](https://github.com/NasDock/AudioDock) - 声仓（AudioDock）一款音乐和有声书一体的本地化播放器，支持多端同步
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
@@ -2376,7 +2386,7 @@
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
@@ -2479,7 +2489,7 @@
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [qmhc/grid-layout-plus](https://github.com/qmhc/grid-layout-plus) - A draggable and resizable grid layout, for Vue 3.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -2532,7 +2542,6 @@
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [Houserqu/nestjs-start](https://github.com/Houserqu/nestjs-start) - 基于 nestjs 项目脚手架
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -2702,7 +2711,7 @@
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
 - [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue 3+Element Plus实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
-- [gcpaas/DataRoom](https://github.com/gcpaas/DataRoom) - 🔥基于SpringBoot、MyBatisPlus、ElementUI、G2Plot、Echarts等技术栈的大屏设计器，具备目录管理、DashBoard设计、预览能力，支持MySQL、Oracle、PostgreSQL、JSON等数据集接入，对于复杂数据处理还可以使用Groovy脚本数据集，使用简单，完全免费，代码开源。
+- [gcpaas/DataRoom](https://github.com/gcpaas/DataRoom) - DataRoom是一款基于SpringBoot3.x、JDK17、Vue3.x、Vite8.x、Element-plus、Echarts6.x等技术栈的大屏设计器，具备大屏、仪表板设计、预览能力，支持MySQL、PostgreSQL、Oracle、SQLServer、Doris、达梦、DB2、GBase、PolarDB、H2、GoldenDB、MongoDB、人大金仓、ClickHouse、Mar
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [L1yp/van](https://github.com/L1yp/van) - springboot + bpmnjs + flowable/activiti/camunda + form-design + rbac工作流低代码实战项目
