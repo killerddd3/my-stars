@@ -1519,7 +1519,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -3848,7 +3848,7 @@
 - [IamCreateAI/Ruyi-Models](https://github.com/IamCreateAI/Ruyi-Models) - 
 - [ant-research/AniDoc](https://github.com/ant-research/AniDoc) - [CVPR'25] Official Implementations for Paper - AniDoc: Animation Creation Made Easier
 - [BoyuanJiang/FitDiT](https://github.com/BoyuanJiang/FitDiT) - Official implementation of "FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on"
-- [open-mmlab/FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter) - [IJCV] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. AI拟音大师，给你的无声视频添加生动而且同步的音效  😝
+- [open-mmlab/FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter) - [IJCV 2026] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. AI拟音大师，给你的无声视频添加生动而且同步的音效  😝
 - [ali-vilab/Cones-V2](https://github.com/ali-vilab/Cones-V2) - [ICML 2023 Oral, NeurIPS 2023] Official implementations for paper: Customizable Image Synthesis with Multiple Subjects
 - [ali-vilab/UniAnimate-DiT](https://github.com/ali-vilab/UniAnimate-DiT) - UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer
 - [ali-vilab/videocomposer](https://github.com/ali-vilab/videocomposer) - Official repo for VideoComposer: Compositional Video Synthesis with Motion Controllability
