@@ -4,7 +4,7 @@
 ## Contents
 
 - [AI](#ai-379)
-- [APP](#app-509)
+- [APP](#app-508)
 - [Game](#game-28)
 - [IT](#it-490)
 - [NAS](#nas-79)
@@ -338,7 +338,7 @@
 - [ssj9596/One-to-All-Animation](https://github.com/ssj9596/One-to-All-Animation) - [CVPR 2026 Poster] One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [bytedance/DreamID-V](https://github.com/bytedance/DreamID-V) - DreamID-V: Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
+- [bytedance/DreamID-V](https://github.com/bytedance/DreamID-V) - [ECCV 2026] DreamID-V: Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
 - [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - No description
 - [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D human motion or 3D character animation generation. 
@@ -397,7 +397,7 @@
 
 [↑ Back to Top](#contents)
 
-## APP (509)
+## APP (508)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -763,7 +763,6 @@
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
 - [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
-- [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [linkease/istore](https://github.com/linkease/istore) - 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -1959,7 +1958,7 @@
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 - [yulichang/mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供left join、right join等操作
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [pagehelper-org/Mybatis-PageHelper](https://github.com/pagehelper-org/Mybatis-PageHelper) - Mybatis通用分页插件
 - [BenjaminVanRyseghem/numbro](https://github.com/BenjaminVanRyseghem/numbro) - A JS library for number formatting
@@ -2397,7 +2396,7 @@
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
