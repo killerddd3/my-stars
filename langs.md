@@ -336,7 +336,7 @@
 
 ## Dart 
 
-- [dungngminh/simutil](https://github.com/dungngminh/simutil) - Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more
+- [dungngminh/simutil](https://github.com/dungngminh/simutil) - It's not just a cross-platform TUI app that quickly opens Android & iOS emulators/simulators
 - [yaoyao2mm/cheatreader](https://github.com/yaoyao2mm/cheatreader) - A floating desktop reader with transparent text-only mode for low-distraction reading.
 - [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
@@ -642,6 +642,7 @@
 
 ## Java 
 
+- [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
@@ -857,6 +858,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) - 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -876,7 +878,6 @@
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Cla
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 解锁所有国内媒体流的钥匙
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 - [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
@@ -1303,6 +1304,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
+- [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 仓库已停止维护
 - [HuanCheng65/TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
 - [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data) - A repository containing datamined data for the game Wuthering Waves
 - [DimbreathBot/AnimeGameData](https://github.com/DimbreathBot/AnimeGameData) - Repository containing the release data for Genshin Impact.
@@ -1532,6 +1534,9 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [zhlmi/moodboard-alignment](https://github.com/zhlmi/moodboard-alignment) - 审美共识引擎 Skill，把客户的 brief、会议记录、剧本读本、品牌文档、PPT 主题、App/游戏设定中的模糊审美描述，转化为可确认、可执行、可增量修改的 HTML 情绪板。Moodboard Alignment turns fuzzy aesthetic briefs into confirmable, executable, and incrementally editable HTML
@@ -1642,7 +1647,7 @@
 - [eric183/ComfyUI-Only](https://github.com/eric183/ComfyUI-Only) - 
 - [HM-RunningHub/ComfyUI_RH_APICall](https://github.com/HM-RunningHub/ComfyUI_RH_APICall) - This is a ComfyUI plugin that makes it easier to call and run workflows from RunningHub in your local ComfyUI setup.
 - [bytedance/Video-As-Prompt](https://github.com/bytedance/Video-As-Prompt) - [ICLR 2026] Official repo for paper "Video-As-Prompt: Unified Semantic Control for Video Generation"
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [mit-han-lab/radial-attention](https://github.com/mit-han-lab/radial-attention) - [NeurIPS 2025] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation
 - [quanhaol/Wan2.2-TI2V-5B-Turbo](https://github.com/quanhaol/Wan2.2-TI2V-5B-Turbo) - 4-steps distilled version of Wan2.2-TI2V-5B
 - [thu-ml/DiT-Extrapolation](https://github.com/thu-ml/DiT-Extrapolation) - Official implementation for "RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers" (ICML 2025) , UltraViCo (ICLR 2026) and UltraImage
@@ -2073,7 +2078,7 @@
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [Freelander/AI-Daily](https://github.com/Freelander/AI-Daily) - 《高军 AI 日报》： 每天花 1 分钟时间，获取精选的前沿 AI 信息。内容涵盖但不限于 前沿 AI 资讯、AI 工具、AI 绘画、开源项目和学习教程 等等。
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -2414,7 +2419,6 @@
 - [Harries/skills-desktop](https://github.com/Harries/skills-desktop) - this is a desktop client for skills.lc
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
 - [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
