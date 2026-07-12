@@ -1021,6 +1021,7 @@
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
+- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
@@ -1508,7 +1509,6 @@
 - [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [skyvow/Front-end-tutorial](https://github.com/skyvow/Front-end-tutorial) - :panda_face:最全的资源教程-前端涉及的所有知识体系
 - [ganlvtech/down_52pojie_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 https://down.52pojie.cn/ 页面的源代码
@@ -1723,7 +1723,6 @@
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Tencent-Hunyuan/HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) - 
 - [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
@@ -2032,7 +2031,7 @@
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -2216,7 +2215,6 @@
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -2260,6 +2258,7 @@
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
+- [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -2416,6 +2415,7 @@
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer) - Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [ShadowArcanist/netviz](https://github.com/ShadowArcanist/netviz) - A browser-based app for designing network architectures visually.
@@ -2521,6 +2521,7 @@
 - [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
@@ -2832,7 +2833,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [crmeb/crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
 - [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
-- [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite8、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
 - [megasanjay/vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A simple Vue 3 component for using Lottie animations in Vue 3
