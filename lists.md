@@ -4,9 +4,9 @@
 ## Contents
 
 - [AI](#ai-380)
-- [APP](#app-546)
+- [APP](#app-547)
 - [Game](#game-28)
-- [IT](#it-514)
+- [IT](#it-516)
 - [NAS](#nas-82)
 - [NSFW](#nsfw-11)
 - [skills](#skills-48)
@@ -398,7 +398,7 @@
 
 [↑ Back to Top](#contents)
 
-## APP (546)
+## APP (547)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -642,7 +642,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -797,7 +797,7 @@
 - [kaleidot725/adbpad](https://github.com/kaleidot725/adbpad) - AdpPad is a GUI software to test android apps using adb. This software is running Windows and macOS.
 - [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 - [gezimos/inkOS](https://github.com/gezimos/inkOS) - Text based & E-ink friendly Android Launcher 
-- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, interactive games, and IP content
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 - [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 - [gstory0404/Cinetry](https://github.com/gstory0404/Cinetry) - Cinetry多媒体播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist、Subsonic、Navidrom、GD音乐台、audiobookshelf、道理鱼、飞牛影视数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV，纯本地客户端，不扫库，不会收集、存储或传输任何个人信息或服务器数据
 - [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
@@ -895,7 +895,7 @@
 - [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 - [luolangaga/tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 - [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) - InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个在游玩过程中由 AI 实时生成全部图文内容的互动剧情游戏
-- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。
+- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
@@ -945,6 +945,7 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.
+- [virtudude/armada](https://github.com/virtudude/armada) - SteamOS-like ARM handheld distro
 
 [↑ Back to Top](#contents)
 
@@ -980,7 +981,7 @@
 
 [↑ Back to Top](#contents)
 
-## IT (514)
+## IT (516)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1495,6 +1496,8 @@
 - [rrousselGit/freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 - [flutter-it/get_it](https://github.com/flutter-it/get_it) - Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App. Maintainer: @escamoteur
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 
 [↑ Back to Top](#contents)
 
