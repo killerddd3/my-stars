@@ -270,7 +270,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, interactive games, and IP content
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -701,6 +701,7 @@
 
 ## awesome 
 
+- [YSGStudyHards/Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 🛠Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -1733,6 +1734,8 @@
 
 ## flutter 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [rrousselGit/freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 - [letsar/flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 - [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
@@ -2334,6 +2337,7 @@
 
 ## http 
 
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -2365,6 +2369,7 @@
 
 ## ios 
 
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [dungngminh/simutil](https://github.com/dungngminh/simutil) - It's not just a cross-platform TUI app that quickly opens Android & iOS emulators/simulators
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
@@ -2510,7 +2515,6 @@
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
@@ -2723,6 +2727,7 @@
 
 ## json 
 
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -3119,6 +3124,7 @@
 
 ## macos 
 
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
@@ -3590,6 +3596,8 @@
 
 ## others 
 
+- [playbridgeapp/playbridge](https://github.com/playbridgeapp/playbridge) - Open-source casting suite (alpha) — browse on your phone, play on the big screen: Android TV, Apple TV, or desktop (macOS/Windows/Linux). Local-network, GPLv3.
+- [virtudude/armada](https://github.com/virtudude/armada) - SteamOS-like ARM handheld distro
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [flutter-it/get_it](https://github.com/flutter-it/get_it) - Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App. Maintainer: @escamote
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -3622,7 +3630,7 @@
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-diagram, 10,000+ official shapes & 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JP
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 31 tools: codebase/CI-pipeline/infra-to-diagram, bilingual relabel, dark-mode restyle, heatmaps. Vis
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -3633,7 +3641,7 @@
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。
+- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) - InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个在游玩过程中由 AI 实时生成全部图文内容的互动剧情游戏
 - [luolangaga/tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 - [huanhq99/FlixPilot](https://github.com/huanhq99/FlixPilot) - 你的全能 Emby / 流媒体管理中枢
@@ -3794,7 +3802,7 @@
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) - Modding platform for GI, HSR, WW and ZZZ
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [KlingAIResearch/UniVideo](https://github.com/KlingAIResearch/UniVideo) - [ICLR 2026] UniVideo: Unified Understanding, Generation, and Editing for Videos
 - [bruhnn/BD2ModManager](https://github.com/bruhnn/BD2ModManager) - Brown Dust 2 Mod Manager to help you manage mods.
 - [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Kandinsky 5.0: A family of diffusion models for Video & Image generation
@@ -3871,7 +3879,7 @@
 - [Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 - [shika-works/pixelium-design](https://github.com/shika-works/pixelium-design) - Pixelium Design – A pixel-art UI component library for Vue, built with TypeScript and Vite. Nostalgic aesthetics, tree-shakable components, dark/light themes, and full type safety out of the box.
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
@@ -4557,6 +4565,7 @@
 - [TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts、QGIS等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [diegoveloper/flutter-samples](https://github.com/diegoveloper/flutter-samples) - Flutter Samples
+- [miyogift/miyo-gift](https://github.com/miyogift/miyo-gift) - Create private, personalized digital gifts with words, photos, videos, and music—made to be opened, kept, and revisited.
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [LaoMengFlutter/flutter-do](https://github.com/LaoMengFlutter/flutter-do) - 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。
@@ -5158,6 +5167,7 @@
 
 ## react-native 
 
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -5200,6 +5210,7 @@
 
 ## rest-api 
 
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -5450,7 +5461,6 @@
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -&gt; 为开发人员打造的低代码开发框架，基础框架可免写90%的SQL，同时具备极强的零代码模型表单页面流程的设计能力和代码生成能力，可在pro-code、low-code、no-code之间自由选择灵活切换，全方位赋能开发。
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
@@ -5472,7 +5482,6 @@
 - [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据
 - [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -&gt; 为开发人员打造的低代码开发框架，基础框架可免写90%的SQL，同时具备极强的零代码模型表单页面流程的设计能力和代码生成能力，可在pro-code、low-code、no-code之间自由选择灵活切换，全方位赋能开发。
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 - [zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform) - 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
@@ -5748,7 +5757,6 @@
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
