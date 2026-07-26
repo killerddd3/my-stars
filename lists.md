@@ -1948,7 +1948,7 @@
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) - No description
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-- [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 A read-only ORM focusing on advanced query, naturally supports joined tables, and avoids DTO/VO conversion, making it possible to realize complex query in one line of code !
+- [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 The GraphQL of list retrieval — entities define search boundaries, parameters drive query logic. One line of code for complex list queries.
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
