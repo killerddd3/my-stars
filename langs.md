@@ -144,6 +144,7 @@
 
 ## C# # 
 
+- [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio) - AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and some functionality enhancements.
 - [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo) - 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, 
 - [IllusionMods/KK_Plugins](https://github.com/IllusionMods/KK_Plugins) - Various plugins for various Illusion games
 - [luolangaga/tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
@@ -615,7 +616,6 @@
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [grbnb/xp_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-- [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 - [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
@@ -1594,6 +1594,7 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [icysaintdx/OpenCode-Config-Manager](https://github.com/icysaintdx/OpenCode-Config-Manager) - OpenCode Config Manager (OCCM) is a visual configuration management tool specifically designed for OpenCode and Oh My OpenCode.(OCCM) 是一款专为 OpenCode 和 Oh My OpenCode 设计的可视化配置管理工具。
+- [14790897/handwriting-web](https://github.com/14790897/handwriting-web) - 将文本转为模拟手写文字的网页版
 - [weirded/fleet-for-esphome](https://github.com/weirded/fleet-for-esphome) - Fleet for ESPHome — Home Assistant add-on for managing fleets of ESPHome devices: distributed compile workers, version pinning, scheduled upgrades, fleet tags, and config history.
 - [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 - [Anyesh/wardrowbe](https://github.com/Anyesh/wardrowbe) - Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
@@ -1632,7 +1633,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [yaoliliu/FreeFuse](https://github.com/yaoliliu/FreeFuse) - FreeFuse: Multi-Subject LoRA Fusion via Adaptive Token-Level Routing at Test Time
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, 
 - [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
 - [juhayna-zh/AudioControlNet](https://github.com/juhayna-zh/AudioControlNet) - Official repository for the paper "Audio ControlNet for Fine-Grained Audio Generation and Editing".
@@ -1701,7 +1702,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -1994,7 +1995,7 @@
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [nwojke/deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Open-source AI-assisted annotation platform for images, videos, text, and multimodal data.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [opendatalab/labelU](https://github.com/opendatalab/labelU) - Open-source multimodal data annotation platform with AI auto-annotation support.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -2082,6 +2083,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
+- [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2210,6 +2212,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [nesszer/Win-CodexBar](https://github.com/nesszer/Win-CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. But for Window-Native
 - [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.
@@ -2789,7 +2792,6 @@
 ## Vue 
 
 - [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw a
-- [14790897/handwriting-web](https://github.com/14790897/handwriting-web) - 将文本转为模拟手写文字的网页版
 - [besoeasy/yantr](https://github.com/besoeasy/yantr) - A self-hosted app store that runs alongside your OS — not instead of it.
 - [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 - [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
