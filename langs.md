@@ -18,7 +18,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
-- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -428,10 +427,6 @@
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## FreeMarker 
 
 - [dromara/CloudEon](https://github.com/dromara/CloudEon) - CloudEon uses Kubernetes to install and deploy open-source big data components, enabling the containerized operation of an open-source big data platform. This allows you to reduce your focus on underl
@@ -518,7 +513,6 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -616,6 +610,7 @@
 - [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [grbnb/xp_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git
@@ -1578,7 +1573,7 @@
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [lzwme/finance-quant-skills](https://github.com/lzwme/finance-quant-skills) - 一个面向金融量化交易领域的 Agent Skills 技能维护仓库，主要聚焦A股量化交易。
 - [Geeksfino/finskills](https://github.com/Geeksfino/finskills) - Financial engineering and risk/compliance skills for agents
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -1819,7 +1814,7 @@
 - [hamadichihaoui/BIRD](https://github.com/hamadichihaoui/BIRD) - This is the official implementation of "Blind Image Restoration via Fast Diffusion Inversion"
 - [TMElyralab/MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
 - [Yujun-Shi/DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) - [CVPR2024, Highlight] Official code for DragDiffusion
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [TencentARC/CustomNet](https://github.com/TencentARC/CustomNet) - 
 - [yolain/ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) - In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 - [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
@@ -2267,7 +2262,7 @@
 - [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
@@ -2275,6 +2270,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -2397,6 +2393,7 @@
 
 ## TypeScript 
 
+- [any-listen/any-listen](https://github.com/any-listen/any-listen) - A cross-platform private music playback service
 - [xuxinxi14/OrbitStart](https://github.com/xuxinxi14/OrbitStart) - OrbitStart 是一个本地优先、可扩展的 Windows 启动工作台，它将应用、网址、文件、工作区、脚本、插件和动作入口汇聚到一个统一的资源中心。（医学生业余时间vibe coding的小软件，非专业人士，轻喷）
 - [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui) - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
 - [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) - AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.
