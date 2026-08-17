@@ -218,7 +218,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
+- [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender (through WSC api)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [slzray/binaray_project](https://github.com/slzray/binaray_project) - 
@@ -474,7 +474,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️🔊 Your Text-to-Speech Services, All-in-One.
-- [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
+- [DevXDojo/MrRSS](https://github.com/DevXDojo/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
@@ -2200,7 +2200,7 @@
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 - [danfengcao/binlog2sql](https://github.com/danfengcao/binlog2sql) - Parse MySQL binlog to SQL you want
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -2234,7 +2234,7 @@
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -2451,7 +2451,7 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [Ademking/BetterViewer](https://github.com/Ademking/BetterViewer) - a replacement for the image viewing mode built into Firefox and Chrome-based web browsers.
 - [octasoft-ltd/wsl-ui](https://github.com/octasoft-ltd/wsl-ui) - WSL2 Manager desktop application built with Tauri, Vite, React, and TypeScript
 - [SzeMeng76/LunaTV](https://github.com/SzeMeng76/LunaTV) - 
