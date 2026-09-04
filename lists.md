@@ -6,11 +6,11 @@
 - [AI](#ai-381)
 - [APP](#app-583)
 - [Game](#game-32)
-- [IT](#it-547)
-- [NAS](#nas-84)
+- [IT](#it-561)
+- [NAS](#nas-85)
 - [NSFW](#nsfw-11)
 - [skills](#skills-48)
-- [未分类 (Uncategorized)](#-uncategorized-1005)
+- [未分类 (Uncategorized)](#-uncategorized-998)
 
 ---
 
@@ -777,7 +777,7 @@
 - [HuanCheng65/TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 - [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 仓库已停止维护
 - [unilei/kerkerker](https://github.com/unilei/kerkerker) - 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署 | Vercel 部署
@@ -889,7 +889,6 @@
 - [HELPMEEADICE/BANDORI-PET-REV](https://github.com/HELPMEEADICE/BANDORI-PET-REV) - BandoriPet 是一个基于 Live2D 和 PySide6 的开源桌面宠物项目，支持 50+ 位 BanG Dream! 角色、300+ 套服装，让你的桌面一秒变成 CiRCLE 排练室
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-- [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) - Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
 - [huanhq99/FlixPilot](https://github.com/huanhq99/FlixPilot) - 你的全能 Emby / 流媒体管理中枢
@@ -952,7 +951,6 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [playbridgeapp/playbridge](https://github.com/playbridgeapp/playbridge) - Open-source casting suite (alpha) — browse on your phone, play on the big screen: Android TV, Apple TV, or desktop (macOS/Windows/Linux). Local-network, GPLv3.
 - [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
-- [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) - AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.
 - [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [aelurum/AssetStudioMod](https://github.com/aelurum/AssetStudioMod) - AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and some functionality enhancements.
@@ -983,6 +981,8 @@
 - [marcelontime/spriteforge](https://github.com/marcelontime/spriteforge) - AI-powered game sprite generator
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [bbplayer-app/BBPlayer](https://github.com/bbplayer-app/BBPlayer) - 一款简约、好用的 BiliBili 音乐播放器。
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+- [yilujian/easy-writing](https://github.com/yilujian/easy-writing) - 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。
 
 [↑ Back to Top](#contents)
 
@@ -1022,7 +1022,7 @@
 
 [↑ Back to Top](#contents)
 
-## IT (547)
+## IT (561)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1570,10 +1570,24 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [MengTo/threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 - [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
+- [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+- [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
+- [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+- [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+- [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
+- [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [stlink-org/stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 [↑ Back to Top](#contents)
 
-## NAS (84)
+## NAS (85)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1658,6 +1672,7 @@
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
+- [redcatH/HollyMusic](https://github.com/redcatH/HollyMusic) - 🎧 个人与家庭的私有音乐云——自部署聚合全网音源，家人各自独立收藏与歌单，兼容 Subsonic 客户端，Docker 一键部署，数据完全自持。
 
 [↑ Back to Top](#contents)
 
@@ -1728,7 +1743,7 @@
 
 [↑ Back to Top](#contents)
 
-## 未分类 (Uncategorized) (1005)
+## 未分类 (Uncategorized) (998)
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 - [withstars/Blog-System](https://github.com/withstars/Blog-System) - 个人博客系统(Spring+Spring MVC+MyBatis )
 - [chenjiandongx/mzitu](https://github.com/chenjiandongx/mzitu) - 👧 美女写真套图爬虫（二）
@@ -1873,7 +1888,6 @@
 - [danfengcao/binlog2sql](https://github.com/danfengcao/binlog2sql) - Parse MySQL binlog to SQL you want
 - [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-- [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
@@ -1967,7 +1981,6 @@
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - No description
 - [cloudera/hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -1976,7 +1989,6 @@
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment 
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - No description
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
@@ -2150,7 +2162,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
@@ -2163,14 +2174,12 @@
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
-- [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
 - [bpmn-io/diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web.
 - [raodv/report](https://github.com/raodv/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
@@ -2184,7 +2193,6 @@
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势识别操控程序」
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
