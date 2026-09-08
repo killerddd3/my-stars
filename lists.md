@@ -6,7 +6,7 @@
 - [AI](#ai-381)
 - [APP](#app-585)
 - [Game](#game-32)
-- [IT](#it-561)
+- [IT](#it-562)
 - [NAS](#nas-85)
 - [NSFW](#nsfw-11)
 - [skills](#skills-48)
@@ -1024,7 +1024,7 @@
 
 [↑ Back to Top](#contents)
 
-## IT (561)
+## IT (562)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1586,6 +1586,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [stlink-org/stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - 鸿蒙 HarmonyOS NEXT APP/HAP/ABC 专业逆向工具，支持反汇编、反编译、交叉引用、Agent智能分析、签名识别、包体浏览、实时投屏、设备操纵、HAP安装等功能。
 
 [↑ Back to Top](#contents)
 
