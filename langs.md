@@ -227,7 +227,7 @@
 
 ## C++ 
 
-- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - 鸿蒙 HarmonyOS NEXT APP/HAP/ABC 专业逆向工具，支持反汇编、反编译、交叉引用、Agent智能分析、签名识别、包体浏览、实时投屏、设备操纵、HAP安装等功能。
+- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 - [SmilexGamer/HLDS_CSNZ](https://github.com/SmilexGamer/HLDS_CSNZ) - Dedicated server for CSN:Z
 - [JusicP/CSNZ_Server](https://github.com/JusicP/CSNZ_Server) - Private server for CSN:Z
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -290,7 +290,6 @@
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
@@ -559,7 +558,7 @@
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Open-source application runtime for the AI coding era. Deploy, operate and deliver AI-generated or traditional apps on your own servers or Kubernetes.
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an AI application runtime platform.  Its core capabilities are 100% open source. Rainbond provides a unified platform for running and managing AI-generated projects, large language model s
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -765,6 +764,7 @@
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1617,7 +1617,7 @@
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
 - [lzwme/finance-quant-skills](https://github.com/lzwme/finance-quant-skills) - 一个面向金融量化交易领域的 Agent Skills 技能维护仓库，主要聚焦A股量化交易。
 - [Geeksfino/finskills](https://github.com/Geeksfino/finskills) - Financial engineering and risk/compliance skills for agents
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -2055,7 +2055,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code.
 - [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) - Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics recogn
@@ -2095,7 +2095,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line i
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
@@ -2558,7 +2558,7 @@
 - [alovajs/alova](https://github.com/alovajs/alova) - The request strategy layer for JavaScript. 20+ ready-made strategies cut your request code by up to 70%
 - [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [NasDock/AudioDock](https://github.com/NasDock/AudioDock) - 声仓（AudioDock）一款音乐和有声书一体的本地化播放器，支持多端同步
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
