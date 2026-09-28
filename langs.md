@@ -233,6 +233,7 @@
 
 ## C++ 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - Next generation of fcitx, cross-platform input method framework.
@@ -259,7 +260,6 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
@@ -1057,7 +1057,7 @@
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
 - [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
-- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 (还在测试).
+- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容
 - [electron/minimal-repro](https://github.com/electron/minimal-repro) - Clone to try a simple Electron app
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
@@ -1594,6 +1594,11 @@
 
 ## Python 
 
+- [geeklee/srt-whiteboard-animation](https://github.com/geeklee/srt-whiteboard-animation) - 将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [siknet/FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
@@ -1632,7 +1637,7 @@
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [lzwme/finance-quant-skills](https://github.com/lzwme/finance-quant-skills) - 一个面向金融量化交易领域的 Agent Skills 技能维护仓库，主要聚焦A股量化交易。
 - [Geeksfino/finskills](https://github.com/Geeksfino/finskills) - Financial engineering and risk/compliance skills for agents
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -1701,7 +1706,7 @@
 - [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [PiDanShouRouZhouXD/Sakura_Launcher_GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) - Sakura模型启动器
-- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-4/Claude/Deepseek/Sakura
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT/Claude/Deepseek/Sakura
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 - [OpenMOSS/MOVA](https://github.com/OpenMOSS/MOVA) - A foundation model that generates synchronized video and audio in a single model
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
@@ -2275,6 +2280,7 @@
 
 ## Rust 
 
+- [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [MuLiuSaMa/NexBox](https://github.com/MuLiuSaMa/NexBox) - NexBox 是一款专为现代玩家打造的游戏工具箱，集成了硬件监控、系统优化、游戏辅助等多种实用功能，帮助你获得更流畅的游戏体验。 其核心功能有：硬件监控 系统优化 辅助准心 监控悬浮框 显示器滤镜 DLSS模型修改 第三方工具
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -2438,6 +2444,7 @@
 
 ## Swift 
 
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [chentao1006/BrowSync](https://github.com/chentao1006/BrowSync) - BrowSync is a cross-browser routing and sync hub for macOS. It unites Safari, all Chromium-based browsers, and Firefox, intelligently routing links and syncing bookmarks and sessions in real-time.
 - [debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats) - Keyboard & Mouse Stats for macOS/Windows
 
