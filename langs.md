@@ -191,7 +191,7 @@
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [UnrealSharp/UnrealSharp](https://github.com/UnrealSharp/UnrealSharp) - UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# (.NET10) with Hot Reload
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
-- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper
 - [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 - [neelabo/NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
@@ -365,6 +365,7 @@
 
 - [openAnimeFlow/AnimeFlow](https://github.com/openAnimeFlow/AnimeFlow) - 跨平台看番 、追番软件,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [flutter-it/get_it](https://github.com/flutter-it/get_it) - Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App. Maintainer: @escamote
 - [rrousselGit/freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 - [letsar/flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 - [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
@@ -517,7 +518,7 @@
 - [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -822,7 +823,7 @@
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [takagen99/Box](https://github.com/takagen99/Box) - Experimental
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [alibaba/QLExpress](https://github.com/alibaba/QLExpress) - QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
@@ -906,7 +907,7 @@
 
 - [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync
 - [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) - A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.
-- [HRuiCcc/RuiC-card-skill](https://github.com/HRuiCcc/RuiC-card-skill) - 全息闪卡通用 Agent Skill：多模态模型都能用，不挑宿主——一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程
+- [HRuiCcc/RuiC-card-skill](https://github.com/HRuiCcc/RuiC-card-skill) - 全息闪卡通用 Agent Skill，不挑宿主、多模态模型都能用：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程 · A host-agnostic Agent Skill: turn one sentence into an interactive 3D holographic card page with layered parallax, plus a
 - [marcelontime/spriteforge](https://github.com/marcelontime/spriteforge) - AI-powered game sprite generator
 - [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) - Curated catalog of free, commercially usable game assets, libraries and tools. Each licence recorded from its source with the date it was read. Links only, nothing rehosted.
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
@@ -915,9 +916,8 @@
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [nvisual-viewer/nvisual-viewer](https://github.com/nvisual-viewer/nvisual-viewer) - A multi-layer data center 3D/2D visualization viewer built with Three.js. Imports nVisual NVP v5.0 packages to auto-generate 3D  │ scenes with racks, rooms, and walls. Features first-person roaming, d
 - [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) - 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口
-- [flutter-it/get_it](https://github.com/flutter-it/get_it) - Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App. Maintainer: @escamote
 - [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) - 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -954,7 +954,6 @@
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [RT15548/LittleWhiteBox](https://github.com/RT15548/LittleWhiteBox) - 
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [iamtherufus/Homio](https://github.com/iamtherufus/Homio) - 🏠 Homio is a clean, minimal, and fully YAML-based dashboard for Home Assistant
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
@@ -1342,6 +1341,7 @@
 
 ## Others 
 
+- [taofan233/azurlane_uncensored](https://github.com/taofan233/azurlane_uncensored) - 碧蓝航线反和谐
 - [noimank/tvbox](https://github.com/noimank/tvbox) - 自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录，iptv直播
 - [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 
 - [YSGStudyHards/Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 🛠Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
@@ -1659,7 +1659,6 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [icysaintdx/OpenCode-Config-Manager](https://github.com/icysaintdx/OpenCode-Config-Manager) - OpenCode Config Manager (OCCM) is a visual configuration management tool specifically designed for OpenCode and Oh My OpenCode.(OCCM) 是一款专为 OpenCode 和 Oh My OpenCode 设计的可视化配置管理工具。
-- [14790897/handwriting-web](https://github.com/14790897/handwriting-web) - 将文本转为模拟手写文字的网页版
 - [weirded/fleet-for-esphome](https://github.com/weirded/fleet-for-esphome) - Fleet for ESPHome — Home Assistant add-on for managing fleets of ESPHome devices: distributed compile workers, version pinning, scheduled upgrades, fleet tags, and config history.
 - [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 - [Anyesh/wardrowbe](https://github.com/Anyesh/wardrowbe) - Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
@@ -2114,7 +2113,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line i
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
@@ -2158,7 +2157,7 @@
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Makes Chromium an anti-detect browser for handling CAPTCHAs. Supports MCP.
 - [Freelander/AI-Daily](https://github.com/Freelander/AI-Daily) - 《高军 AI 日报》： 每天花 1 分钟时间，获取精选的前沿 AI 信息。内容涵盖但不限于 前沿 AI 资讯、AI 工具、AI 绘画、开源项目和学习教程 等等。
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
@@ -2569,6 +2568,7 @@
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
@@ -2646,7 +2646,7 @@
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
@@ -2686,8 +2686,8 @@
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -2886,6 +2886,7 @@
 
 - [yilujian/easy-writing](https://github.com/yilujian/easy-writing) - 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。
 - [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw a
+- [14790897/handwriting-web](https://github.com/14790897/handwriting-web) - 将文本转为模拟手写文字的网页版
 - [besoeasy/yantr](https://github.com/besoeasy/yantr) - A self-hosted homelab app store for rootless Podman — runs alongside your OS, not instead of it.
 - [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 - [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
