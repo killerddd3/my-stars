@@ -5,8 +5,8 @@
 
 - [AI](#ai-384)
 - [APP](#app-621)
-- [Game](#game-42)
-- [IT](#it-578)
+- [Game](#game-43)
+- [IT](#it-580)
 - [NAS](#nas-89)
 - [NSFW](#nsfw-10)
 - [skills](#skills-48)
@@ -866,7 +866,7 @@
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [Ademking/BetterViewer](https://github.com/Ademking/BetterViewer) - A fast image viewer and editor for your browser and desktop
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
-- [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
+- [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone    Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -1027,7 +1027,7 @@
 
 [↑ Back to Top](#contents)
 
-## Game (42)
+## Game (43)
 - [1204244136/DoroHelper](https://github.com/1204244136/DoroHelper) - Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.
 - [bruhnn/BD2ModManager](https://github.com/bruhnn/BD2ModManager) - Brown Dust 2 Mod Manager to help you manage mods.
 - [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) - Modding platform for GI, HSR, WW and ZZZ
@@ -1070,10 +1070,11 @@
 - [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [sunyink/MFABD2](https://github.com/sunyink/MFABD2) - 《棕色尘埃2 (Brown Dust 2)》MaaFramework (MFA)框架自动化脚本。自动领取日常，拒绝给游戏打工！ 
+- [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 [↑ Back to Top](#contents)
 
-## IT (578)
+## IT (580)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1084,7 +1085,7 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -1652,6 +1653,8 @@
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - Modern Python Computer Vision Automation Framework
 - [datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E
+- [mattxslv/childstream](https://github.com/mattxslv/childstream) - Stream games from a second Windows desktop while you keep using your PC - via Windows child sessions + Sunshine
+- [espressif/esp-emulator](https://github.com/espressif/esp-emulator) - Emulator for ESP32 Series SoCs
 
 [↑ Back to Top](#contents)
 
@@ -2589,7 +2592,7 @@
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
 - [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [apache/fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2627,7 +2630,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme) - 专治强迫症
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
