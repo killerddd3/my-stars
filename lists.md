@@ -912,7 +912,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [Shrey113/Adb-Device-Manager-2](https://github.com/Shrey113/Adb-Device-Manager-2) - Dual-control Android management for Windows — ADB Mode (scrcpy GUI mirroring & control) and App Mode (calls, media, notifications, Audio Cast).
@@ -1767,7 +1767,7 @@
 
 ## skills (48)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 - [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 - [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills) - 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制
@@ -1868,7 +1868,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
 - [mahoshojoHCG/TerminalConfig](https://github.com/mahoshojoHCG/TerminalConfig) - Accessories for mahoshojoHCG.github.io
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Byron4j/CookBook](https://github.com/Byron4j/CookBook) - 🎉🎉🎉JAVA高级架构师技术栈==任何技能通过 “刻意练习” 都可以达到融会贯通的境界，就像烹饪一样，这里有一份JAVA开发技术手册，只需要增加自己练习的次数。🏃🏃🏃
@@ -2104,7 +2104,7 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
@@ -2422,7 +2422,7 @@
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [Freelander/AI-Daily](https://github.com/Freelander/AI-Daily) - 《高军 AI 日报》： 每天花 1 分钟时间，获取精选的前沿 AI 信息。内容涵盖但不限于 前沿 AI 资讯、AI 工具、AI 绘画、开源项目和学习教程 等等。
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Has a stealth mode for Playwright. Includes an MCP server for AI agents.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。
