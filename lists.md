@@ -4,13 +4,13 @@
 ## Contents
 
 - [AI](#ai-386)
-- [APP](#app-631)
+- [APP](#app-630)
 - [Game](#game-42)
 - [IT](#it-580)
 - [NAS](#nas-90)
 - [NSFW](#nsfw-10)
 - [skills](#skills-48)
-- [未分类 (Uncategorized)](#-uncategorized-995)
+- [未分类 (Uncategorized)](#-uncategorized-996)
 
 ---
 
@@ -404,11 +404,11 @@
 
 [↑ Back to Top](#contents)
 
-## APP (631)
+## APP (630)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
@@ -718,7 +718,7 @@
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [RT15548/LittleWhiteBox](https://github.com/RT15548/LittleWhiteBox) - No description
 - [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT/Claude/Deepseek/Sakura
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 翻译特化的 AGENT Harness · 一键高质量翻译 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等
 - [PiDanShouRouZhouXD/Sakura_Launcher_GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) - Sakura模型启动器
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
@@ -900,7 +900,6 @@
 - [luolangaga/tubatools](https://github.com/luolangaga/tubatools) - 这是基于图吧工具箱的使用WinUI 3 全新重构的版本，一款由社区驱动、深度契合 Windows 11 设计美学的现代化工具箱。它不仅确保你始终使用最新版本的工具，还集成了更加丰富的实用内置 fluent 风格的工具，更可满足高度自定义的个性化需求。
 - [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) - InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个在游玩过程中由 AI 实时生成全部图文内容的互动剧情游戏
 - [xm486/YukiHub](https://github.com/xm486/YukiHub) - YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.
-- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
@@ -1654,7 +1653,7 @@
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [luomor/UniApp-Android-Plugins](https://github.com/luomor/UniApp-Android-Plugins) - 一个uniApp 插件的集合，包括陀螺仪、扫码枪、标签打印机、身份证识别、售货机等插件
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
 - [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
@@ -1737,7 +1736,7 @@
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
-- [besoeasy/yantr](https://github.com/besoeasy/yantr) - A self-hosted homelab app store for rootless Podman — runs alongside your OS, not instead of it.
+- [besoeasy/yantr](https://github.com/besoeasy/yantr) - One command, and you're self-hosting.
 - [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
 - [guohuiyuan/go-novel-dl](https://github.com/guohuiyuan/go-novel-dl) - go-novel-dl 是 Go 语言开发的多源小说下载器，支持 CLI 与 Web 界面，可跨站点并发搜索、一键下载并导出，已适配 ESJZone、SFACG、刺猬猫、若初文学等多个书源。novel-dl交流群：1094455212
 - [markcxx/coco-downloader](https://github.com/markcxx/coco-downloader) - No description
@@ -1829,7 +1828,7 @@
 
 [↑ Back to Top](#contents)
 
-## 未分类 (Uncategorized) (995)
+## 未分类 (Uncategorized) (996)
 - [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 - [withstars/Blog-System](https://github.com/withstars/Blog-System) - 个人博客系统(Spring+Spring MVC+MyBatis )
 - [chenjiandongx/mzitu](https://github.com/chenjiandongx/mzitu) - 👧 美女写真套图爬虫（二）
@@ -2205,6 +2204,7 @@
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
+- [oureveryday/PikPak_By_Shimily_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak_By_Shimily
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 - [yulichang/mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供left join、right join等操作
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
@@ -2371,7 +2371,7 @@
 - [potato-security/PotatoTool](https://github.com/potato-security/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
-- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - 220+ AI tools across 37+ categories — chatbots, coding agents, AI video/image/voice, open-weight models. / 220+ 个 AI 工具、AI+人工筛选。
+- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!
 - [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
@@ -2434,7 +2434,7 @@
 - [Freelander/AI-Daily](https://github.com/Freelander/AI-Daily) - 《高军 AI 日报》： 每天花 1 分钟时间，获取精选的前沿 AI 信息。内容涵盖但不限于 前沿 AI 资讯、AI 工具、AI 绘画、开源项目和学习教程 等等。
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。
 - [jd-opensource/drip-table](https://github.com/jd-opensource/drip-table) - A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。
@@ -2588,7 +2588,7 @@
 - [jondot/rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) - Hand curated advice and pointers for getting started with Rust
 - [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) - PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated self-hosting platform, from empty disks to running services with a single command
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) - Podman desktop companion
