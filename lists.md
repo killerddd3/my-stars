@@ -718,7 +718,7 @@
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [RT15548/LittleWhiteBox](https://github.com/RT15548/LittleWhiteBox) - No description
 - [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT/Claude/Deepseek/Sakura
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等 · 一键 · 高质量 · 全格式
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME · 一键 · 高质量 · 全格式
 - [PiDanShouRouZhouXD/Sakura_Launcher_GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) - Sakura模型启动器
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
@@ -888,7 +888,7 @@
 - [zarfadev/MobaXterm-Keygen](https://github.com/zarfadev/MobaXterm-Keygen) - MobaXterm Key Generate
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
-- [sky22333/skyadb](https://github.com/sky22333/skyadb) - Android 上的 adb 助手，可以很方便的管理安卓手机、平板、电视和盒子。
+- [sky22333/skyadb](https://github.com/sky22333/skyadb) - Android 上的 adb 助手，可以很方便的管理安卓手机、平板、电视和盒子。支持AI控制。
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - No description
 - [HELPMEEADICE/BANDORI-PET-REV](https://github.com/HELPMEEADICE/BANDORI-PET-REV) - BandoriPet 是一个基于 Live2D 和 PySide6 的开源桌面宠物项目，支持 50+ 位 BanG Dream! 角色、3000+ 套服装，让你的桌面一秒变成 CiRCLE 排练室
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
@@ -2435,7 +2435,7 @@
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [Freelander/AI-Daily](https://github.com/Freelander/AI-Daily) - 《高军 AI 日报》： 每天花 1 分钟时间，获取精选的前沿 AI 信息。内容涵盖但不限于 前沿 AI 资讯、AI 工具、AI 绘画、开源项目和学习教程 等等。
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, e2e testing, and bypassing bot-detection with ease.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright Mode.
 - [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [qiin2333/sunshine-control-panel](https://github.com/qiin2333/sunshine-control-panel) - 🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手
 - [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。
