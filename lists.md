@@ -4,8 +4,8 @@
 ## Contents
 
 - [AI](#ai-386)
-- [APP](#app-645)
-- [Game](#game-42)
+- [APP](#app-646)
+- [Game](#game-52)
 - [IT](#it-583)
 - [NAS](#nas-91)
 - [NSFW](#nsfw-12)
@@ -404,7 +404,7 @@
 
 [↑ Back to Top](#contents)
 
-## APP (645)
+## APP (646)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [seven332/EhViewer](https://github.com/seven332/EhViewer) - [DEPRECATED] An Unofficial E-Hentai Application for Android
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -445,7 +445,7 @@
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [liuchuancong/pure_live](https://github.com/liuchuancong/pure_live) - 纯粹直播:哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc/YY直播/Twitch直播/SOOP直播/M38自定义源应有尽有。
 - [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
 - [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
@@ -1050,10 +1050,11 @@
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+- [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
 
 [↑ Back to Top](#contents)
 
-## Game (42)
+## Game (52)
 - [1204244136/DoroHelper](https://github.com/1204244136/DoroHelper) - Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.
 - [bruhnn/BD2ModManager](https://github.com/bruhnn/BD2ModManager) - Brown Dust 2 Mod Manager to help you manage mods.
 - [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) - Modding platform for GI, HSR, WW and ZZZ
@@ -1096,6 +1097,16 @@
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [sunyink/MFABD2](https://github.com/sunyink/MFABD2) - 《棕色尘埃2 (Brown Dust 2)》MaaFramework (MFA)框架自动化脚本。自动领取日常，拒绝给游戏打工！ 
 - [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
+- [OpenD2K/opend2k](https://github.com/OpenD2K/opend2k) - Native open-source rebuild of Dune 2000 (1998) for macOS, Windows, Linux, Android and iOS — not OpenRA; needs your own game data
+- [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
+- [Try/OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Notr
+- [open-annihilation/open-annihilation](https://github.com/open-annihilation/open-annihilation) - Free, open source engine that plays the original Total Annihilation on macOS, Windows, Linux, iPhone, iPad and Steam Deck.
+- [grasmanek94/darkreign2](https://github.com/grasmanek94/darkreign2) - Dark Reign 2
+- [nanolathe-gg/nanolathe](https://github.com/nanolathe-gg/nanolathe) - Total Annihilation engine reimplementation in Go.
+- [beyond-all-reason/RecoilEngine](https://github.com/beyond-all-reason/RecoilEngine) - A powerful free cross-platform RTS game engine
+- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
+- [ZeroK-RTS/Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+- [techannihilation/TA](https://github.com/techannihilation/TA) - Tech Annihilation
 
 [↑ Back to Top](#contents)
 
@@ -2652,7 +2663,7 @@
 - [opentiny/tiny-engine](https://github.com/opentiny/tiny-engine) - TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台
 - [opentiny/tiny-vue](https://github.com/opentiny/tiny-vue) - TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
